@@ -1,8 +1,6 @@
 # ShopSmart Retail Sales Analytics
 
-## Project Overview
-
-This project is an end-to-end Retail Sales Analytics solution built using:
+## Tech Stack
 
 - MySQL
 - SQL
@@ -10,11 +8,8 @@ This project is an end-to-end Retail Sales Analytics solution built using:
 - Pandas
 - NumPy
 - Power BI
+- Git & GitHub
 
-### Objectives
+## Objective
 
-- Design a relational database
-- Generate realistic retail data
-- Clean and transform data using Python
-- Perform SQL analysis
-- Build an interactive Power BI dashboard
+Build an end-to-end retail analytics solution by designing a relational database, generating realistic retail data, cleaning it using Python, analyzing it using SQL, and visualizing business insights in Power BI.
