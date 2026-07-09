@@ -12,5 +12,8 @@ create table products (
     is_active boolean default true,
 
     foreign key (category_id)
-        references categories(category_id)
+        references categories(category_id),
+        
+	foreign key (supplier_id)
+		references suppliers(supplier_id)
 );
