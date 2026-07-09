@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+faker
+sqlalchemy
+mysql-connector-python
+jupyter
+openpyxl
