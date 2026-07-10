@@ -1,0 +1,405 @@
+employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_date
+1,Libni,Pai,vincent13@example.net,916674752636.0,7,Inventory Executive,18242,2023-04-05
+2,Hemani,Tank,wbahri@example.net,916058643505.0,2,Sales Executive,58732,2025-11-16
+3,Aarush,Kohli,jeetdugar@example.net,910463320031.0,9,Sales Executive,51922,2022-11-02
+4,Madhav,Kalla,gautamidevi@example.net,1922812313.0,8,Inventory Executive,49372,2026-01-25
+5,Michael,Sane,datechandani@example.org,334619421.0,9,Inventory Executive,50759,2025-01-28
+6,Ekanta,Hari,xsalvi@example.org,918013284089.0,6,Cashier,77971,2021-03-11
+7,Naveen,Chauhan,fkoshy@example.net,7620936528.0,10,Inventory Executive,26890,2027-01-02
+8,Zarna,Merchant,oeshipadmanabhan@example.com,5961699570.0,3,Cashier,56465,2022-06-07
+9,Ganga,Radhakrishnan,ramlopa@example.net,375809812.0,4,Inventory Executive,62141,2021-11-23
+10,Akshay,Narula,ishaan01@example.org,5059334882.0,10,Store Manager,51486,2024-01-28
+11,Aashi,Aurora,ubath@example.net,9134771534.0,5,Sales Executive,71103,2020-06-09
+12,Naveen,Roy,ivohra@example.net,8453411632.0,6,Store Manager,23487,2025-10-22
+13,Ekantika,Comar,saksham72@example.com,911609558089.0,5,Sales Executive,39780,2019-10-04
+14,Megha,Jani,daksheshmukherjee@example.org,6732613193.0,2,Store Manager,75879,2023-06-13
+15,Wishi,Saini,mbassi@example.org,916440963014.0,6,Store Manager,48605,2020-12-24
+16,Bishakha,Maharaj,msahota@example.org,8800189865.0,9,Store Manager,45131,2023-12-11
+17,Zayyan,Jayaraman,fbehl@example.org,5176976415.0,4,Cashier,-34704,2019-05-18
+18,Vasudha,Madan,ldugar@example.org,8792778636.0,6,Sales Executive,36247,2019-03-28
+19,Girik,Agarwal,latabhanumati@example.com,914073860521.0,8,Sales Executive,47237,2021-07-23
+20,Noah,Pandey,ukunda@example.com,5856986828.0,3,Sales Executive,28996,2020-09-21
+21,Meera,Reddy,chahalqushi@example.com,8571714630.0,9,Cashier,26007,2024-05-09
+22,Damyanti,Gill,rrastogi@example.net,5649466500.0,6,Inventory Executive,60648,2024-06-12
+23,Raksha,Dugar,ekta58@example.org,507478510.0,4,Cashier,74231,2023-12-18
+24,Balendra,Garg,nimrat74@example.net,7051314403.0,1,Inventory Executive,65555,2021-11-04
+25,Urvashi,Grewal,onveerpau@example.net,8173179170.0,5,Store Manager,52283,2024-01-03
+26,Jagrati,Golla,hema69@example.net,,2,Cashier,37031,2025-04-11
+27,Geetika,Pau,mananjohal@example.org,4622880626.0,7,Cashier,50029,2021-07-16
+28,Sai,More,chowdhuryhardik@example.com,5188221606.0,1,Inventory Executive,51386,2023-03-27
+29,Rachit,Amble,rgera@example.net,9139692159.0,8,Sales Executive,65294,2019-01-29
+30,Nakul,Gaba,dasguptapahal@example.com,910774389020.0,9,Store Manager,23398,2020-01-26
+31,Aarnav,Sarkar,abhiram53@example.org,5850566389.0,7,Cashier,19227,2022-04-21
+32,Rehaan,Manda,devika65@example.net,7732499643.0,10,Sales Executive,65395,2019-06-01
+33,Vrishti,Mitra,abeerrajagopalan@example.com,,5,Store Manager,67323,2021-09-28
+34,Oscar,Subramaniam,shettyudyati@example.com,911357973035.0,6,Inventory Executive,57534,2025-04-06
+35,Jagrati,Dora,zjaggi@example.net,1594826615.0,7,Cashier,21795,2022-11-03
+36,Veda,Sekhon,mohammedganguly@example.net,5631412911.0,5,Inventory Executive,32387,2021-07-24
+37,Vedhika,Palla,dkhatri@example.com,6962188076.0,4,Cashier,69390,2025-07-14
+38,Kabir,Mutti,swali@example.org,910187341930.0,7,Sales Executive,68347,2021-07-22
+39,Ryan,Wali,maxdesai@example.org,1419546817.0,5,Inventory Executive,38354,2021-09-02
+40,Edhitha,Issac,rmisra@example.net,912422632473.0,5,Cashier,79517,2018-11-23
+41,Tanay,Sampath,lokeekapad@example.net,4782374146.0,3,Inventory Executive,54449,2019-08-27
+42,Jeet,Bahri,utkarshdivan@example.net,919831033664.0,7,Inventory Executive,20426,2021-09-27
+43,Aarush,Bhattacharyya,divya00@example.com,5128904135.0,6,Sales Executive,38054,2021-08-30
+44,Vinaya,Sood,anjalimangat@example.org,5377474247.0,1,Store Manager,37044,2025-06-28
+45,Zinal,Raju,udarsh75@example.org,9310393586.0,2,Store Manager,36039,2022-10-29
+46,Varenya,Sampath,frama@example.net,911594398284.0,5,Cashier,70706,2020-06-24
+47,Xiti,Dave,harinakshibhatt@example.org,4727425067.0,5,Cashier,34142,2024-10-04
+48,Ojasvi,Sampath,uarya@example.org,8352852580.0,2,Store Manager,42975,2021-05-12
+49,Liam,Walia,narayanjhalak@example.com,5132194822.0,10,Cashier,37589,2025-02-22
+50,Shivani,Batra,idikacherian@example.org,915154751025.0,8,Store Manager,35947,2019-07-02
+51, Chandresh ,Natt,amol52@example.com,9183329701.0,2,Store Manager,76632,2023-10-01
+52,Raksha,Ranganathan,duavrishti@example.net,910773578938.0,1,Store Manager,52412,2018-09-30
+53,Radha,Koshy,sarafvrinda@example.net,912986806492.0,9,Store Manager,50754,2022-10-04
+54,Girik,Sagar,krishakhalsa@example.net,913196222314.0,10,Sales Executive,73577,2025-06-01
+55,Gunbir,Ramachandran,wkapoor@example.net,911935599736.0,8,Store Manager,24087,2019-05-26
+56,Anita,Dara,vanya70@example.net,8823440765.0,10,Cashier,46540,2024-10-13
+57,Advaith,Balasubramanian,eganesan@example.net,198507997.0,2,Store Manager,57427,2021-08-15
+58,Christopher,Sheth,forumraval@example.org,6158085209.0,5,Store Manager,46277,2022-09-20
+59,Nathaniel,Nazareth,isaac26@example.net,917889622421.0,9,Inventory Executive,55786,2020-04-28
+60,Mohini,Sule,tanejasarthak@example.net,915817602195.0,6,Inventory Executive,51816,2023-07-21
+61,Daksha,Chakraborty,anandijaya@example.com,3280530955.0,1,Sales Executive,45865,2019-04-20
+62,Ikbal,Nagarajan,inaya86@example.net,5709545138.0,10,Cashier,44105,2022-12-10
+63,Kai,Kar,eshanaseshadri@example.com,2291300355.0,2,Sales Executive,74863,2024-02-02
+64,George,Kamdar,xsharma@example.com,2082858311.0,6,Inventory Executive,77502,2019-10-07
+65,Oscar,Pandit,netradalal@example.com,9891909159.0,10,Inventory Executive,49625,2020-01-22
+66,Chakradev,Upadhyay,cgupta@example.com,919743565375.0,5,Inventory Executive,38321,2018-11-03
+67,Siddharth,Raj,ksaini@example.com,916668755938.0,8,Cashier,66058,2020-02-24
+68,Krishna,Jhaveri,rsingh@example.net,,8,Sales Executive,33890,2021-05-14
+69,Rohan,Srinivas,abhimanyudasgupta@example.org,3824983902.0,2,Sales Executive,67468,2025-03-26
+70,Osha,Loyal,dominickrish@example.net,7719103641.0,2,Cashier,24058,2025-04-17
+71,Sanaya,Nayar,yoshitabal@example.org,9394196019.0,8,Store Manager,78872,2022-10-12
+72,Gabriel,Patla,wyatt09@example.net,4064502663.0,2,Cashier,36270,2025-11-29
+73,Advik,Taneja,battaekbal@example.net,917362870648.0,6,Sales Executive,64664,2025-08-24
+74,Dominic,Khatri,joshuabaria@example.net,1229367028.0,7,Inventory Executive,73187,2025-12-04
+75,Tanmayi,Sama,yachanapalan@example.com,911076182322.0,3,Store Manager,25731,2020-11-20
+76,Elijah,Jain,bedizashil@example.com,4660644426.0,7,Store Manager,32602,2022-06-01
+77,Wridesh,Nadkarni,azadverma@example.org,7851608371.0,4,Sales Executive,32213,2026-01-13
+78,Azaan,Saran,neha69@example.net,3324639096.0,9,Sales Executive,66197,2024-10-26
+79,Wishi,Seshadri,kamyamitter@example.net,1660615885.0,1,Inventory Executive,62663,2022-08-29
+80,Pushti,Rattan,shuklapanini@example.com,6587196394.0,2,Inventory Executive,18696,2021-12-18
+81,Nidhi,Nayar,gandhijanya@example.net,990915553.0,9,Sales Executive,41070,2024-08-10
+82,Maya,Chacko,byogi@example.net,919058529679.0,6,Cashier,23743,2020-02-23
+83,Balendra,Narain,jhaverimohammed@example.com,9452644951.0,4,Inventory Executive,-46408,2024-07-21
+84,Omya,Doctor,banjeetgolla@example.net,9305899830.0,1,Sales Executive,33757,2021-02-18
+85,Wyatt,Dayal,arunimamand@example.net,6845128673.0,5,Cashier,54895,2018-08-25
+86,Adweta,Gour,amruta19@example.net,3881903018.0,6,Cashier,72998,2026-07-02
+87,Chakradhar,Dubey,ukhurana@example.net,756567025.0,7,Inventory Executive,22846,2025-02-17
+88,Nidra,Dara,ryan21@example.net,8566300970.0,1,Sales Executive,35325,2020-07-11
+89,Sarthak,Bassi,oscarchoudhury@example.org,4191485849.0,7,Cashier,41840,2026-02-23
+90,William,Bath,peterbumb@example.org,4662193997.0,2,Cashier,22229,2019-11-22
+91,Harini,Dada,aashizachariah@example.net,2399021091.0,8,Cashier,77450,2022-04-02
+92,Onkar,Rattan,ctara@example.com,918486726014.0,7,Cashier,55578,2018-08-06
+93,Mekhala,Amble,fsama@example.org,917407754188.0,3,Store Manager,71766,2024-05-16
+94,Harshil,Chaudhuri,daksheshswaminathan@example.net,9804583744.0,7,Cashier,69180,2019-10-20
+95,Laban,Sidhu,januja15@example.net,,4,Sales Executive,76496,2024-10-25
+96,Rachita,Raja,omaja57@example.com,1501429760.0,1,Store Manager,42805,2025-10-15
+97,Jhalak,Sami,mpalla@example.org,917315796565.0,2,Sales Executive,40636,2023-02-10
+98,Logan,Dugar,lswamy@example.com,8599649701.0,8,Store Manager,35719,2019-05-23
+99,Ishani,Walia,advikatank@example.net,919041469554.0,7,Cashier,33470,2026-03-05
+100,Eshana,Sibal,liamkamdar@example.net,914597040916.0,7,Cashier,55354,2025-04-11
+101,Aditya,Bhakta,sdevan@example.com,5875814753.0,6,Store Manager,40160,2020-01-01
+102,Max,Nagarajan,ijayaborde@example.org,918169380395.0,7,Store Manager,56568,2019-09-10
+103,Joshua,Sarma,urmioak@example.net,2288725285.0,6,Sales Executive,42103,2020-07-01
+104,Bahadurjit,Subramanian,vyanjanasinghal@example.org,9026537228.0,6,Sales Executive,28138,2021-06-03
+105,Nachiket,Sandhu,roykrisha@example.net,6731547149.0,8,Sales Executive,22644,2024-03-23
+106,Bhavika,Thakur,adyadoctor@example.org,919834900819.0,1,Cashier,76878,2024-10-10
+107,Frado,Devan,pallarachana@example.net,911795005083.0,6,Store Manager,69739,2020-11-04
+108,Jai,Lall,zparmar@example.com,918313236222.0,5,Cashier,40407,2026-01-25
+109,Neel,Bains,advika97@example.net,919238012149.0,3,Cashier,27810,2026-04-30
+110,Devika,Gulati,balaymitali@example.com,3013732588.0,6,Store Manager,72503,2022-12-14
+111,Pratyush,Bawa,sgulati@example.net,919670567777.0,4,Sales Executive,43229,2022-05-02
+112,Anjali,Dutta,umangprashad@example.com,5566347971.0,1,Sales Executive,74970,2025-04-13
+113,Waida,Chand,hmanda@example.com,9692537145.0,1,Cashier,63902,2024-11-14
+114,Agastya,Radhakrishnan,nicholas98@example.net,27248196.0,9,Inventory Executive,33543,2021-11-07
+115,Reva,Sarma,anay90@example.net,919049488232.0,5,Inventory Executive,48093,2026-05-25
+116,Anvi,Dalal,avni99@example.net,912387760876.0,5,Store Manager,62731,2019-12-01
+117,Praneel,Bahl,ryanbhasin@example.net,6751818850.0,8,Sales Executive,29658,2025-07-11
+118, Darpan ,Nagi,battaekansh@example.org,2491630073.0,4,Sales Executive,21577,2023-05-14
+119,Bina,Mangat,karanbaghyawati@example.org,9504898419.0,1,Cashier,59921,2021-07-23
+120,Orinder,Prabhu,champak72@example.net,910983282098.0,8,Sales Executive,56867,2024-07-03
+121,Robert,Sama,henrykoshy@example.org,3350916055.0,7,Sales Executive,29205,2018-12-20
+122,Dipta,Tak,fbhardwaj@example.com,913065921426.0,7,Inventory Executive,51710,2024-04-17
+123,Vanya,Parmar,fredericksandhu@example.net,913719088964.0,1,Cashier,38634,2023-01-23
+124,Ijaya,Chanda,ashankar@example.net,4675228311.0,4,Cashier,44522,2023-06-10
+125,Aarush,Rajan,bhavnagupta@example.org,912955628985.0,4,Cashier,68505,2019-04-03
+126,Wriddhish,Ahluwalia,,917312051644.0,4,Inventory Executive,32312,2025-04-13
+127,Ishani,Bhatt,vhalder@example.org,4801464723.0,3,Sales Executive,78097,2024-05-13
+128,Jhalak,Nori,ishwar99@example.org,6870777647.0,2,Sales Executive,48618,2021-04-29
+129,Jeevika,Taneja,ayaan27@example.com,1500476622.0,1,Store Manager,70596,2019-08-22
+130,Ekta,Kapoor,elijahdalal@example.org,31266928.0,4,Inventory Executive,23457,2023-03-24
+131,Baghyawati,Sarma,snarang@example.net,3945108681.0,2,Sales Executive,49419,2024-12-08
+132,Ekalinga,D’Alia,ipal@example.com,3008431370.0,1,Inventory Executive,36834,2025-09-05
+133,Prisha,Virk,nsundaram@example.com,918746619443.0,8,Sales Executive,41605,2025-12-10
+134,Widisha,Thaker,sankaranadvay@example.net,9948584224.0,4,Inventory Executive,54929,2022-07-20
+135,Advika,Mangat,kmand@example.org,437949222.0,3,Cashier,42794,2021-04-21
+136,Garima,Kade,tristannori@example.org,2058719827.0,2,Store Manager,30055,2019-01-11
+137,Faras,Nazareth,fariskhurana@example.org,375385702.0,10,Sales Executive,46931,2020-10-31
+138,Rayaan,Dasgupta,suhaniravi@example.com,7728891031.0,4,Inventory Executive,75204,2025-09-23
+139,Laksh,Murty,raoekta@example.org,2420821320.0,9,Cashier,49605,2021-05-15
+140,Harrison,Biswas,unnikaur@example.org,1872141418.0,1,Sales Executive,51616,2022-06-17
+141,Jyoti,Chahal,tanveer44@example.net,915317044674.0,6,Sales Executive,60421,2018-11-06
+142,Aarini,Ram,dgoswami@example.com,911034876717.0,7,Cashier,48706,2020-11-29
+143,Ekani,Char,senguptadhruv@example.net,913686905744.0,7,Sales Executive,34163,2024-03-03
+144,Ranbir,Deshpande,ansh15@example.net,916768719321.0,5,Inventory Executive,47821,2020-12-10
+145,Chanakya,Barman,lankajatin@example.com,1734164682.0,7,Store Manager,56499,2024-04-12
+146,Simon,Borah,thomasraghavan@example.org,85911966.0,6,Inventory Executive,74020,2020-05-14
+147,Warinder,Mane,samuel81@example.org,7198113013.0,10,Inventory Executive,58189,2019-01-30
+148,Warda,Prabhakar,david95@example.org,4296355372.0,10,Sales Executive,35400,2023-09-10
+149,Yash,Issac,sahaaahana@example.com,5924978817.0,6,Store Manager,23444,2023-12-05
+150,Teerth,Thaman,radhikasubramanian@example.com,8491695400.0,7,Sales Executive,57146,2020-05-24
+151,Robert,Walla,shivanidara@example.org,126340916.0,4,Inventory Executive,36740,2019-12-02
+152,Ekaja,Srivastava,dayita99@example.com,3565060287.0,4,Inventory Executive,29930,2020-07-22
+153,Nakul,Apte,inaya64@example.net,914719842370.0,6,Store Manager,52559,2021-08-10
+154,Zehaan,Dara,balhaarmutti@example.com,912754172404.0,6,Cashier,54352,2018-12-22
+155,Yash,Mishra,agrawaladvik@example.net,8457738863.0,3,Inventory Executive,66251,2019-07-14
+156,Onveer,Bawa,hardikbajwa@example.org,916213372373.0,10,Sales Executive,67164,2020-10-13
+157,Tanish,Pandya,lchandra@example.com,912848217728.0,6,Sales Executive,55769,2021-05-10
+158,Bahadurjit,Sahota,sai30@example.net,,10,Sales Executive,41331,2026-05-28
+159,Ucchal,Prasad,horaazaan@example.org,915598271295.0,4,Sales Executive,60352,2021-10-18
+160,Azaan,Sagar,wsachdev@example.net,8486986741.0,10,Cashier,77503,2020-06-13
+161,Farhan,Solanki,ramajoshua@example.net,8415013700.0,5,Inventory Executive,24437,2024-06-25
+162,Agastya,Bali,gparsa@example.net,915039819222.0,8,Cashier,22388,2020-05-31
+163,Vincent,Ben,eshanker@example.net,8953632851.0,4,Inventory Executive,73451,2026-02-25
+164,Indrajit,Garg,yash48@example.com,911729167189.0,7,Sales Executive,55732,2021-05-10
+165,Dayita,Rajan,yashicasagar@example.com,919364511658.0,1,Sales Executive,18465,2023-09-23
+166,Yochana,Sidhu,lchaudhari@example.org,6005315791.0,10,Sales Executive,49044,2026-03-27
+167,Chaitanya,Lala,daniel75@example.net,919742805876.0,7,Cashier,48413,2023-08-27
+168,Gagan,Bandi,nkale@example.com,5760765720.0,3,Inventory Executive,42538,2020-12-18
+169,Harini,Pal,omchada@example.org,9301355865.0,2,Inventory Executive,73211,2021-12-15
+170,Amol,Kari,hardik36@example.org,919490328666.0,2,Sales Executive,36150,2022-05-31
+171,Hema,Yadav,nachiket73@example.com,3599792172.0,9,Store Manager,69842,2020-01-13
+172,Anya,Sur,bhavna30@example.org,1257754922.0,9,Store Manager,72798,2021-07-31
+173,Rachit,Saini,,3180235008.0,6,Inventory Executive,27355,2025-09-21
+174,Yamini,Dhar,ndass@example.org,914979180962.0,1,Store Manager,52495,2022-10-19
+175,Yagnesh,Divan,amanda@example.org,919877327449.0,4,Inventory Executive,35773,2021-07-28
+176,Kalpit,Guha,hsem@example.com,5184188583.0,1,Sales Executive,24242,2020-10-07
+177,Aarav,Jani,rajeshrinadig@example.net,2896600000.0,8,Store Manager,23743,2018-10-20
+178,Keya,Narang,balvankeer@example.org,910819450215.0,3,Cashier,22251,2022-04-18
+179,Urvashi,Dani,maniamol@example.com,9128003080.0,4,Inventory Executive,77231,2019-02-11
+180,Turvi,Chahal,mjayaraman@example.net,4827852112.0,4,Cashier,61684,2024-04-03
+181,Vrinda,Agarwal,khoslajairaj@example.net,8764729774.0,1,Sales Executive,67183,2022-01-01
+182,Nilima,Lalla,shavictor@example.net,913979242079.0,1,Sales Executive,69189,2025-01-01
+183,Niharika,Sanghvi,patrick50@example.org,911981071068.0,4,Inventory Executive,76446,2021-10-31
+184,Mugdha,Bhatia,faraj27@example.com,7303344477.0,3,Cashier,56272,2024-12-26
+185,Lekha,Rau,sarthaksaraf@example.net,9108235709.0,3,Inventory Executive,37170,2027-01-01
+186,Samesh,Pradhan,dalalikshita@example.net,7541654791.0,10,Cashier,66380,2025-02-13
+187,Ladli,Vasa,aishanideshmukh@example.net,5018558573.0,9,Cashier,64355,2021-03-07
+188,Dalaja,Acharya,nayarbachittar@example.com,7629583349.0,7,Store Manager,29995,2025-05-26
+189,Pranav,Kala,vasariya@example.org,917516539461.0,5,Inventory Executive,68845,2025-03-29
+190,Udyati,Parmer,gerazinal@example.net,,2,Sales Executive,45337,2025-03-26
+191,Neha,Sabharwal,braranjali@example.org,9433872716.0,7,Store Manager,57610,2021-08-20
+192, Rudra ,Swaminathan,hamsinichakrabarti@example.org,912269909016.0,3,Inventory Executive,24612,2022-12-16
+193,Ikbal,Chaudry,jluthra@example.org,4916683275.0,4,Inventory Executive,68838,2020-11-13
+194,Rushil,Rai,zbhargava@example.org,6995470239.0,5,Sales Executive,52586,2019-04-14
+195,Wahab,Chacko,onveer39@example.net,5262351935.0,1,Cashier,32964,2018-11-27
+196,Henry,Vohra,abhimanyu65@example.net,8031910140.0,10,Inventory Executive,50675,2020-08-26
+197,Faqid,Wason,anya96@example.net,4039741093.0,4,Store Manager,45437,2018-10-16
+198,Harrison,Contractor,,7310009856.0,2,Inventory Executive,68558,2023-08-30
+199,Omaja,Dada,trivenimishra@example.org,2849918371.0,9,Inventory Executive,49528,2024-09-17
+200,Gaurika,Gopal,saneoni@example.org,4208679739.0,1,Inventory Executive,29116,2019-07-16
+201,Osha,Madan,nhans@example.com,914969726899.0,5,Store Manager,43526,2024-07-05
+202,Orinder,Wable,kritikarattan@example.org,916493402067.0,3,Sales Executive,50408,2025-01-11
+203,Jairaj,Mukherjee,rattivritti@example.com,911056984783.0,5,Sales Executive,76952,2020-11-28
+204,Quincy,Sharaf,chatterjeejacob@example.org,9003404851.0,10,Store Manager,45392,2022-12-06
+205,Gopal,Gopal,smajumdar@example.org,910560183469.0,1,Inventory Executive,45887,2021-09-06
+206,Alka,Chakraborty,ojas52@example.org,918315130996.0,9,Inventory Executive,35503,2019-10-03
+207,Wyatt,Rattan,nehamangat@example.com,913442998552.0,5,Inventory Executive,68735,2023-01-21
+208,Simon,Puri,nitara74@example.com,912862450453.0,5,Inventory Executive,46703,2021-06-19
+209,Sathvik,Manne,hamsini47@example.org,910830427424.0,9,Inventory Executive,22710,2022-02-05
+210,Qabil,Pradhan,advikabakshi@example.net,7702538697.0,10,Inventory Executive,29017,2023-08-20
+211,Gavin,Butala,subramaniamfaqid@example.org,8907023507.0,5,Sales Executive,71806,2018-09-10
+212,Urvi,Karpe,baralwarinder@example.com,5963906861.0,10,Sales Executive,18834,2024-03-24
+213,Amruta,Mistry,vihaan84@example.net,9781263595.0,2,Sales Executive,43489,2022-02-24
+214,Bhavika,Bhat,prisha85@example.net,5615958004.0,1,Inventory Executive,27290,2021-08-28
+215,Farhan,Taneja,bravel@example.net,2733753661.0,1,Inventory Executive,51924,2019-11-01
+216,Ishani,Yadav,patrick15@example.com,7138801053.0,4,Inventory Executive,39693,2020-05-27
+217,Nakul,Amble,ucchalkibe@example.net,8769277425.0,3,Cashier,70291,2024-05-19
+218,Wahab,Merchant,ishadoshi@example.net,1100690107.0,8,Cashier,33568,2018-11-13
+219, Anjali ,Gola,ybatra@example.com,3470247220.0,1,Store Manager,39701,2024-07-17
+220,Chaaya,Arora,amritamannan@example.org,3846755861.0,7,Store Manager,79549,2023-12-30
+221,Jairaj,Khatri,anviloke@example.org,915125677647.0,9,Cashier,65375,2025-01-22
+222,Adweta,Pandey,ekanshsavant@example.net,912024182558.0,8,Cashier,70212,2023-09-10
+223,Udant,Shah,settydayita@example.org,1005333801.0,5,Sales Executive,68209,2019-09-03
+224,Keya,Bali,soniayaan@example.com,912440883613.0,1,Cashier,44048,2022-10-06
+225,Rachit,Hari,vagarwal@example.com,918269366036.0,1,Store Manager,46827,2020-10-30
+226,Aishani,Deshpande,avni81@example.net,,2,Store Manager,40739,2023-10-05
+227,Kalpit,Nagarajan,ubhakta@example.net,911554005638.0,3,Cashier,76616,2022-08-02
+228,Baljiwan,Rajagopal,wwadhwa@example.net,6448129055.0,2,Cashier,41452,2025-06-04
+229,Timothy,Savant,nidhiagrawal@example.com,8709950093.0,1,Cashier,26416,2019-01-07
+230,Lopa,Shankar,baradgunbir@example.org,382843452.0,4,Store Manager,67272,2021-05-20
+231,Ronith,Bera,upkaar13@example.net,9447941364.0,6,Store Manager,19058,2020-03-26
+232,Vasatika,Ben,dswamy@example.org,527405812.0,10,Cashier,47765,2019-09-08
+233,Joshua,Warrior,mdhaliwal@example.net,910776457580.0,2,Sales Executive,75549,2020-03-19
+234,Tamanna,Balan,khalder@example.com,69108480.0,9,Cashier,25306,2021-09-23
+235,Manthan,Master,upkaar39@example.org,912301268733.0,3,Inventory Executive,46740,2025-08-13
+236,Gautami,Mukherjee,ldayal@example.com,9994237129.0,5,Cashier,59724,2025-09-21
+237,Lakshmi,Konda,fsandhu@example.com,910279900937.0,10,Sales Executive,50088,2020-05-10
+238,Rachita,Karnik,azaan06@example.net,4879778896.0,8,Inventory Executive,57067,2018-10-24
+239,Urishilla,Nagarajan,kmammen@example.org,329138477.0,1,Sales Executive,74662,2019-12-02
+240,Ansh,Dugar,rmenon@example.com,2018624132.0,5,Sales Executive,61784,2024-09-17
+241,Ranbir,Kala,agastya02@example.net,6815743915.0,8,Cashier,67817,2021-03-24
+242,Nihal,Karpe,saibala@example.net,913334980596.0,6,Store Manager,33961,2026-04-26
+243,Diya,Oommen,fradodoctor@example.org,8105670453.0,4,Inventory Executive,56433,2021-11-15
+244,Hemal,Wason,shravyavaidya@example.com,912819933521.0,9,Cashier,53302,2024-03-27
+245,Anthony,Varughese,jacksubramaniam@example.org,809564178.0,4,Store Manager,66335,2024-12-15
+246,Ryan,Halder,lallapooja@example.org,3896910190.0,2,Cashier,54550,2022-06-07
+247,Eta,Shanker,brahmbhattfrado@example.org,911863148924.0,10,Store Manager,45553,2024-03-01
+248,Ekalinga,Brar,nitarakara@example.net,915561847773.0,5,Store Manager,56773,2019-03-15
+249,Tanish,Sridhar,benjamin48@example.org,7394183367.0,9,Sales Executive,48144,2024-04-12
+250,Karan,Loyal,yde@example.org,911216790031.0,9,Inventory Executive,30379,2023-08-28
+251,Praneel,Lala,yagarwal@example.com,9392894889.0,5,Cashier,18156,2025-09-13
+252,Robert,Bail,yug90@example.org,5800372499.0,9,Inventory Executive,36131,2022-03-01
+253,David,Mandal,varenya07@example.com,5384473734.0,1,Sales Executive,59601,2024-07-28
+254,Hemangini,Gera,datedhruv@example.org,916477719386.0,4,Inventory Executive,34853,2022-06-27
+255,Fariq,Tailor,zilmilpalan@example.net,919100537985.0,5,Cashier,38090,2020-06-28
+256,Omkaar,Nath,kashish57@example.com,6157534515.0,5,Inventory Executive,22487,2026-01-15
+257,Kashvi,Nadig,vohrajanya@example.com,3162170335.0,4,Sales Executive,79878,2022-03-30
+258,Eshana,Krishnan,borragarima@example.org,918452019539.0,6,Inventory Executive,29749,2022-02-08
+259,Chasmum,Nayar,dharvedhika@example.net,1069515018.0,2,Inventory Executive,67296,2025-08-21
+260,Aahana,Arora,jkrishnamurthy@example.net,9185360536.0,1,Cashier,21086,2020-04-24
+261,Urvi,D’Alia,ramakrishnanoviya@example.net,1397543149.0,1,Inventory Executive,39693,2018-11-25
+262,Oscar,Bumb,kulkarniyahvi@example.com,5273666713.0,4,Sales Executive,54953,2023-04-09
+263,Ijaya,Pall,rohanwarrior@example.net,6369760709.0,9,Store Manager,46338,2018-12-21
+264,Daksha,Raj,lajitachoudhury@example.org,506554597.0,5,Store Manager,27069,2019-03-14
+265,Ayaan,Chana,falak29@example.com,910917477994.0,5,Inventory Executive,21445,2021-01-22
+266,Thomas,Bahri,omyakar@example.org,7668638285.0,8,Store Manager,36529,2020-12-05
+267,Yashasvi,Dua,aarnasampath@example.org,916931729154.0,10,Store Manager,77266,2019-07-29
+268,Janaki,Luthra,mannanpraneel@example.org,914103190654.0,4,Sales Executive,35211,2025-02-22
+269,Krish,Chaudhary,avimody@example.net,919428910621.0,10,Cashier,44687,2023-10-29
+270,Raghav,Korpal,stiwari@example.org,2017710934.0,9,Sales Executive,26901,2023-01-16
+271,Samuel,Deol,gangulyfaqid@example.org,8641525928.0,1,Sales Executive,58837,2026-05-25
+272,Dayamai,Hegde,golakaran@example.org,821932962.0,9,Store Manager,52702,2024-03-13
+273,Girindra,Oza,khatrianita@example.org,917162531198.0,1,Inventory Executive,20141,2025-09-25
+274,Faraj,Majumdar,aarush95@example.net,2050565756.0,7,Store Manager,29408,2025-04-29
+275,Caleb,Chawla,euppal@example.com,8198359434.0,8,Sales Executive,62013,2021-02-23
+276,Sachi,Kalita,darayahvi@example.org,2717234613.0,6,Sales Executive,27385,2023-05-19
+277,Manthan,Bora,mohini77@example.net,3862724689.0,6,Sales Executive,41774,2026-05-03
+278,Faras,Borde,jackmurthy@example.com,911681690171.0,9,Inventory Executive,60570,2026-02-21
+279,Harshil,Rattan,jyotishere@example.com,9467634131.0,4,Store Manager,77932,2022-07-10
+280,Janaki,Randhawa,venkataramandalaja@example.org,8565383058.0,10,Inventory Executive,69070,2021-06-29
+281,Tamanna,Narang,ekaja93@example.org,9827895979.0,8,Inventory Executive,42254,2021-08-18
+282,Mitesh,Misra,tmerchant@example.com,9296169350.0,3,Sales Executive,75383,2024-05-04
+283,Wridesh,Ben,arya62@example.org,1337001248.0,6,Store Manager,62226,2019-12-23
+284,Zayyan,Ravel,zansi72@example.org,913196955966.0,6,Cashier,32909,2020-06-30
+285,Maya,Swamy,palankavya@example.com,917161487774.0,5,Cashier,75371,2024-10-15
+286,Chaaya,Bail,darpansridhar@example.org,428389274.0,4,Store Manager,48093,2019-08-08
+287,Vansha,Chanda,yauvani97@example.org,916088400557.0,7,Store Manager,57835,2026-02-24
+288,Rishi,Jhaveri,vrittibera@example.net,7504409839.0,6,Store Manager,45249,2023-01-03
+289,Garima,Deshpande,dayalekapad@example.com,2874248466.0,1,Inventory Executive,56586,2023-04-12
+290,Leena,Anne,ychakraborty@example.net,2839407163.0,6,Sales Executive,75522,2022-03-05
+291,Naksh,Kibe,nicholas87@example.com,6408810536.0,10,Inventory Executive,35232,2018-10-22
+292,Samarth,Cheema,,917287623824.0,7,Sales Executive,70131,2019-01-05
+293,Girik,Shroff,vinayabir@example.com,911218077069.0,3,Cashier,63727,2024-02-09
+294,Gaurav,Shanker,bediabha@example.net,8659198003.0,5,Cashier,27363,2025-02-15
+295,Geetika,Ratti,dhruv11@example.org,6497596228.0,1,Sales Executive,57127,2022-01-10
+296,Isha,Buch,fitan70@example.net,732661512.0,5,Cashier,22315,2023-09-17
+297,Harita,Bhalla,yasti44@example.com,917226379228.0,6,Cashier,28726,2022-02-08
+298,Nathan,Ramaswamy,aarushdatta@example.org,919498107095.0,5,Inventory Executive,56191,2020-04-30
+299,Abeer,Wable,ewarrior@example.org,4944755700.0,7,Inventory Executive,35322,2021-10-25
+300,Chandresh,Naidu,pradhandeepa@example.net,9905277165.0,2,Sales Executive,77621,2020-05-24
+301,Anita,Munshi,ekani94@example.com,6205614432.0,4,Store Manager,57521,2022-10-10
+302,Siddharth,Kakar,warhikohli@example.com,2399472424.0,7,Store Manager,46974,2018-09-08
+303,Yutika,Arora,ekbal26@example.net,6396237062.0,2,Store Manager,56739,2022-03-17
+304,Vasudha,Zachariah,gautam14@example.org,7844987455.0,9,Inventory Executive,53357,2018-09-25
+305,Yashvi,Pal,joshua65@example.org,9303949225.0,7,Store Manager,28987,2022-01-02
+306,Balhaar,Gade,kiaan06@example.net,916781659860.0,5,Sales Executive,33917,2023-01-11
+307,Zaitra,Dass,owen21@example.org,917050764588.0,7,Cashier,74106,2018-12-28
+308,Akshay,Sahni,vihaannagarajan@example.net,3071541532.0,2,Sales Executive,75494,2021-05-02
+309,Ubika,Bail,ethankant@example.org,8855001613.0,1,Sales Executive,64172,2020-06-06
+310,Neel,Thakur,mdasgupta@example.org,1225109742.0,10,Store Manager,32319,2019-08-16
+311,Tarak,Dhingra,xkannan@example.com,7629802586.0,9,Store Manager,77434,2025-01-10
+312,Yachana,Deo,kibesaumya@example.com,919944705278.0,9,Cashier,75543,2022-02-22
+313,Yochana,Narasimhan,veer05@example.net,1734827845.0,2,Store Manager,40245,2026-06-19
+314,Akshay,Narayanan,oshaahluwalia@example.org,4011610073.0,7,Inventory Executive,31033,2023-03-10
+315,Tanveer,Jain,yahvikamdar@example.com,912604025771.0,1,Store Manager,44655,2021-05-26
+316,Unnati,Arya,bachittar01@example.net,1918808590.0,2,Cashier,72206,2024-11-12
+317,Urishilla,Madan,hredhaan32@example.com,2058358389.0,7,Store Manager,35843,2026-05-08
+318,Wyatt,Barman,mohammedoommen@example.org,917587474109.0,7,Cashier,24903,2020-10-29
+319,Charan,Kanda,kritika82@example.com,910845581437.0,6,Store Manager,60616,2025-05-14
+320,Qadim,Wagle,fsant@example.org,952558702.0,4,Store Manager,59083,2022-01-12
+321,Sai,Memon,chaudhurinicholas@example.com,2923248703.0,5,Store Manager,44696,2024-01-28
+322,Dalaja,Ratta,avnigrewal@example.com,8533312198.0,3,Inventory Executive,37506,2022-09-01
+323,Omya,Balasubramanian,bwarrior@example.net,2405909945.0,7,Sales Executive,44817,2022-02-12
+324,Ayush,Rao,vasana51@example.net,914678204801.0,8,Sales Executive,40781,2019-07-20
+325,Anirudh,Chand,dyaltristan@example.org,812703315.0,3,Cashier,71209,2025-04-02
+326,Rudra,Sarraf,advaith03@example.org,5767897077.0,7,Inventory Executive,71667,2019-04-09
+327,Bahadurjit,Chaudhari,chanakya63@example.org,4421758485.0,9,Inventory Executive,77645,2023-12-15
+328,Ria,Viswanathan,pranavsuri@example.com,7802545177.0,2,Inventory Executive,38212,2019-07-02
+329,Varenya,Upadhyay,,4621790220.0,4,Inventory Executive,67607,2022-04-10
+330,Sanaya,Peri,zsani@example.net,5125049055.0,7,Sales Executive,27094,2019-11-26
+331,Ronith,Sani,anusha45@example.org,917486677592.0,6,Store Manager,52947,2022-09-18
+332,Gagan,Murthy,tarak46@example.org,7293959427.0,10,Cashier,38207,2026-06-19
+333,Ojasvi,Maharaj,dayitakonda@example.com,913983626662.0,1,Sales Executive,32404,2025-10-12
+334,Gaurangi,Divan,michaelmishra@example.org,3700245571.0,5,Store Manager,51487,2022-09-16
+335,Irya,Dar,cbasu@example.org,3173765679.0,1,Inventory Executive,75734,2021-02-16
+336,Vritti,Pandya,pillaytanish@example.com,8654875204.0,1,Store Manager,26189,2018-11-19
+337,Xiti,Mannan,shauryamukhopadhyay@example.com,913414071503.0,1,Store Manager,61526,2021-12-11
+338,Unnati,Narang,paninisane@example.com,916192803857.0,2,Store Manager,76405,2025-09-28
+339,Vyanjana,Prabhakar,kamdarshivani@example.net,9696046090.0,6,Cashier,22675,2024-09-09
+340,Abha,Khosla,,912706760649.0,4,Inventory Executive,31185,2022-07-14
+341,Turvi,Bhandari,kumeraadhya@example.net,1983743941.0,5,Inventory Executive,58756,2020-02-03
+342,Praneel,Palla,riyakoshy@example.net,5868956868.0,9,Sales Executive,59362,2020-06-28
+343,Samar,Muni,,914220075291.0,8,Store Manager,56909,2026-05-11
+344,Owen,Ganesh,amruta95@example.net,3764066183.0,10,Inventory Executive,63747,2019-05-17
+345,Yahvi,Babu,patilveda@example.net,6054152702.0,3,Inventory Executive,48161,2019-07-03
+346,Faqid,Das,xagarwal@example.com,7955141171.0,2,Inventory Executive,25273,2021-06-01
+347,Neelima,Bhattacharyya,nathaniel14@example.org,913983867022.0,9,Sales Executive,33637,2021-12-30
+348,Yug,Panchal,dnair@example.com,1806564005.0,8,Inventory Executive,60075,2019-06-25
+349,Saanvi,Deol,inaidu@example.net,8763148122.0,2,Inventory Executive,68744,2021-09-15
+350,Aashi,Mukherjee,gangulyurmi@example.com,4385770230.0,10,Cashier,74609,2020-09-06
+351,Tarak,Dave,lilakata@example.org,6123971079.0,1,Sales Executive,36208,2021-10-27
+352,Daksha,Rout,menonodika@example.net,8570062957.0,10,Sales Executive,66426,2025-05-12
+353,Zayyan,Rama,fdoctor@example.org,3088523321.0,3,Inventory Executive,23586,2024-04-19
+354,Yatan,Basu,janakichar@example.org,1852431872.0,1,Store Manager,60376,2025-10-08
+355,Caleb,Yohannan,widisha96@example.com,9167261214.0,1,Sales Executive,23521,2024-06-17
+356,Chaitanya,Suri,somanjanya@example.net,3788070919.0,5,Cashier,30739,2019-01-24
+357,Samaksh,Dara,dboase@example.org,,8,Sales Executive,26328,2025-10-16
+358,Saksham,Dey,wableoscar@example.org,8499991865.0,6,Inventory Executive,36046,2022-06-19
+359,Faris,Buch,yashoda42@example.net,917891460076.0,4,Inventory Executive,55223,2020-11-02
+360,Wriddhish,Gulati,mason26@example.net,4036596197.0,4,Inventory Executive,54921,2021-01-01
+361,Darsh,Nath,vinayamammen@example.com,914144411212.0,1,Inventory Executive,59044,2019-05-05
+362,Shivani,Prabhu,mbir@example.org,5106121300.0,8,Inventory Executive,57107,2025-05-12
+363,Madhavi,Upadhyay,sanaya00@example.com,2831473522.0,10,Sales Executive,78848,2020-12-09
+364,Gautami,Ganesan,nicholas96@example.org,8436162378.0,2,Cashier,55535,2024-11-25
+365,Urmi,Dhaliwal,pantudyati@example.com,9866127491.0,10,Inventory Executive,31031,2025-10-20
+366,Yashoda,Chauhan,yashasvijaggi@example.org,494120044.0,5,Store Manager,-47433,2019-01-13
+367,Lohit,Kar,udeep@example.org,9668551044.0,7,Cashier,20103,2022-11-04
+368,Qushi,Mall,aarnapandit@example.net,3619354580.0,9,Inventory Executive,67491,2023-07-08
+369,Udant,Koshy,gpillay@example.com,917960275179.0,9,Sales Executive,31296,2023-11-26
+370,Laban,Sarna,advaithvarkey@example.org,2108244014.0,3,Cashier,28182,2022-03-15
+371,Tanveer,Sarma,aishani16@example.org,375361045.0,8,Inventory Executive,72174,2023-04-24
+372,Advik,Mannan,nisharamanathan@example.org,9735257479.0,10,Inventory Executive,78706,2026-03-09
+373,Lajita,Randhawa,vasudhagill@example.org,5913513906.0,2,Sales Executive,61889,2018-08-20
+374,Girish,Jaggi,varghesefaqid@example.net,9732993139.0,6,Cashier,70520,2022-10-28
+375,Siddharth,Ghose,xgaba@example.com,4038844167.0,1,Cashier,48244,2024-09-07
+376,Nitara,Bala,saiarya@example.org,1558114858.0,6,Store Manager,52082,2026-01-13
+377,Amruta,Dass,dsekhon@example.com,2058791773.0,5,Store Manager,-65368,2020-05-24
+378,Qasim,Lad,nihal84@example.org,1123796717.0,8,Inventory Executive,52794,2020-04-16
+379,Teerth,Sachar,divyadyal@example.net,2570564761.0,9,Store Manager,36044,2019-05-03
+380,Yashodhara,Sibal,chakradevsalvi@example.com,915074660417.0,7,Inventory Executive,76799,2020-03-20
+381,Watika,Dasgupta,vvohra@example.com,4743380567.0,8,Inventory Executive,50818,2023-07-17
+382,Saanvi,Chatterjee,falguni00@example.com,965104287.0,5,Sales Executive,34752,2021-05-05
+383,Anamika,Dasgupta,talwarindira@example.com,919693722409.0,6,Cashier,36288,2022-02-02
+384,Manya,Dixit,nathan98@example.com,1494844302.0,10,Inventory Executive,36413,2021-05-31
+385,Amruta,De,dayalchampak@example.com,7772632378.0,8,Sales Executive,44471,2020-04-21
+386,Pallavi,Nori,salviwakeeta@example.com,918670444952.0,4,Inventory Executive,34061,2024-08-11
+387,Ekiya,Ram,harshildhawan@example.org,6125851928.0,1,Sales Executive,24115,2025-01-03
+388,Mitali,Behl,maanassunder@example.com,7176766399.0,4,Inventory Executive,51359,2024-05-25
+389,Prisha,Dewan,rachana92@example.net,6931153797.0,6,Cashier,51115,2026-04-29
+390,Ira,Borra,tarasethi@example.net,9171674048.0,5,Sales Executive,79591,2021-04-10
+391,Viraj,Sami,qushichoudhry@example.net,915845081771.0,2,Sales Executive,77233,2025-03-22
+392,Nandini,Babu,manderisha@example.net,297970745.0,9,Store Manager,58230,2022-12-04
+393,Ekanta,Garg,tandonvasudha@example.org,8652919812.0,2,Cashier,48996,2020-04-25
+394,Omkaar,Kapoor,kibesanaya@example.net,548993148.0,8,Sales Executive,21267,2020-11-15
+395,Ishita,Bath,saisolanki@example.org,4119911610.0,10,Store Manager,29827,2022-01-01
+396,Henry,Ramakrishnan,basueta@example.net,646987955.0,7,Store Manager,35626,2020-09-13
+397,Ati,Kota,mahikabose@example.com,912491882080.0,1,Sales Executive,61356,2023-12-08
+398,Aarav,Pal,iyerhemang@example.org,6661353740.0,6,Inventory Executive,43014,2018-08-29
+399,Samaksh,Sethi,,4017021801.0,4,Inventory Executive,68314,2024-07-25
+400,Charles,Muni,sahniomkaar@example.com,1006967379.0,2,Sales Executive,40500,2019-02-21
+138,Rayaan,Dasgupta,suhaniravi@example.com,7728891031.0,4,Inventory Executive,75204,2025-09-23
+139,Laksh,Murty,raoekta@example.org,2420821320.0,9,Cashier,49605,2021-05-15
+14,Megha,Jani,daksheshmukherjee@example.org,6732613193.0,2,Store Manager,75879,2023-06-13
+96,Rachita,Raja,omaja57@example.com,1501429760.0,1,Store Manager,42805,2025-10-15
