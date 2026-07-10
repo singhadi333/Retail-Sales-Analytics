@@ -1,0 +1,201 @@
+supplier_id,supplier_name,contact_person,email,phone,city,state
+1,"Parmer, Bir And Krishnan",Leena Sane,bhavani05@naidu.com,9962122297.0,Ahmednagar,Sikkim
+2,Bhavsar Inc,Vincent Bhargava,jasmitbahri@gole.net,915586887373.0,Hazaribagh,Assam
+3,Wable And Sons,Sathvik Zachariah,maanasviswanathan@batta.com,8448493811.0,Junagadh,Maharashtra
+4,"Sinha, Malhotra And Chanda",Zansi Ratta,kala80@dua.org,916402787688.0,Tiruppur,Gujarat
+5,Sha-Sridhar,Vincent Thaman,krishnarai@savant.com,917336297343.0,Munger,Mizoram
+6,"Mukhopadhyay, Ghose And Gulati",Arjun Korpal,dgarg@manne.com,967672752.0,Bareilly,West Bengal
+7,"Rao, D’Alia And Dhaliwal",Bimala Badami,madaneiravati@bedi.com,9378675926.0,Tinsukia,Punjab
+8,"Chakrabarti, Brar And Chauhan",Kamya Sheth,smerchant@swaminathan.com,5477267655.0,Chinsurah,Punjab
+9,"Bandi, Gupta And Karan",Lajita Oza,aggarwalkrish@saran.net,2212416758.0,Bhind,Sikkim
+10,"Aggarwal, Ramanathan And Bhatnagar",Oscar Savant,brahmbhattviraj@doctor.com,5510789232.0,Begusarai,Uttar Pradesh
+11,Khatri-Desai,Maya Varkey,hdara@varkey.biz,8725421172.0,Hajipur,Maharashtra
+12,Chana-Mandal,Dhruv Sankar,neeldara@dhar.com,Not Available,Kumbakonam,Telangana
+13,Pingle Inc,Anay Sastry,dassyuvraj@dora.info,8518111993.0,Chandrapur,Tripura
+14,Gill And Sons,Laban Keer,dminhas@ahluwalia.biz,917998546936.0,Hapur,Himachal Pradesh
+15,Basak-Hayer,Riya Sant,gchacko@patil-bala.net,910369784366.0,Unnao,Haryana
+16,Sathe Group,Krish Tella,virkjeet@ahluwalia.com,916612168523.0,Bhimavaram,Tamil Nadu
+17,Suresh-Zacharia,Dalaja Narayan,bperi@ray-madan.com,171743149.0,Pali,Jharkhand
+18,Kohli Inc,Vedika Sarkar,wrattan@nigam-oak.com,917675543615.0,Muzaffarnagar,Tamil Nadu
+19,Gole-Grover,Balveer Chahal,vidhi29@goswami.com,4469812845.0,Phusro,Sikkim
+20,Yohannan Llc,Girindra Bhat,balvansampath@puri-sankaran.com,913416083008.0,Kota,Arunachal Pradesh
+21,"Oak, Choudhury And Contractor",Amol Venkatesh,adweta96@parekh-lad.com,5228053110.0,Morbi,Mizoram
+22,Zacharia-Banik,Dayamai Rai,gagan08@vig.com,7369409164.0,Bhusawal,Tamil Nadu
+23,Dhar Plc,Anthony Kara,krishna40@subramanian.com,1816661825.0,Haldia,Karnataka
+24,"Bhatt, Borde And Ramachandran",Arunima Solanki,hitesh16@ratti.com,913948335588.0,Nadiad,Arunachal Pradesh
+25,Buch Inc,Shivansh Sathe,sarnashivani@vyas.info,5844695217.0,Sambalpur,Jharkhand
+26,Vaidya-Taneja,Inaya Zachariah,omaja73@dhingra-soni.com,911853199991.0,Agra,Telangana
+27,Bail Llc,Harsh Raghavan,damyantichoudhury@natarajan.org,3466216283.0,Kollam,Maharashtra
+28,Nazareth Llc,Manan Goswami,avitiwari@bhatnagar.info,8966951172.0,Vijayawada,West Bengal
+29,Goyal-Parekh,Mason Bala,gdara@batra.com,7034856895.0,Miryalaguda,Odisha
+30,Sachar Llc,Ishwar Choudhury,unknown@supplier.com,911944585948.0,Vasai-Virar,Bihar
+31,Jaggi Plc,Victor Taneja,aviramesh@wable-bhandari.com,8404702838.0,Bidar,Maharashtra
+32,"Cheema, Puri And Bahl",Odika Ghosh,badaladya@nagarajan-nagarajan.net,610895211.0,Rajpur Sonarpur,Telangana
+33,"Shukla, Dave And Kohli",Lakshit Nagarajan,bbarman@thaker.net,9137157475.0,Gangtok,Punjab
+34,Naidu-Dani,Aashi Jha,cpurohit@sami.info,3033669442.0,Tumkur,Madhya Pradesh
+35,"Dugar, Ahuja And Mane",Unknown,amritasarna@sha.com,1606167717.0,Pondicherry,Gujarat
+36,"Sha, Patil And Tak",Nimrat Koshy,echander@bahl-savant.biz,269277258.0,Bulandshahr,Andhra Pradesh
+37,"Lal, Chaudhari And Ratti",Triveni D’Alia,nandini61@parsa-jaggi.com,6794243167.0,North Dumdum,West Bengal
+38,Dara-Som,Dakshesh Pai,sagareiravati@pathak.org,2200034901.0,Ujjain,Himachal Pradesh
+39,Raman Inc,Nidra Sinha,upadhriti17@bahl.com,911350067684.0,Thane,Uttar Pradesh
+40,Misra-Yogi,Warhi Walia,imaranbandi@saraf.com,388555075.0,Tezpur,Tamil Nadu
+41,Basak-Devan,Unknown,unknown@supplier.com,913368573088.0,Pune,Odisha
+42,Soni-Deep,Nakul Dey,jsaini@peri.com,917535421428.0,Begusarai,Meghalaya
+43,Oommen-Kakar,Damini Om,edhithapai@buch.info,8051406745.0,Vellore,Haryana
+44,Dada-Sinha,Ikbal Grewal,buchmanan@sem-goda.com,911936206231.0,Bhavnagar,Haryana
+45,Prabhu-Viswanathan,Eiravati Goda,akshayranganathan@morar.com,2027595103.0,Kota,Andhra Pradesh
+46,Srinivas Inc,Joshua Kade,lpatla@bhandari.com,913758946495.0,Hindupur,Manipur
+47,Hans Group,Dev Vala,michael47@gill.info,911658129211.0,Tirunelveli,Sikkim
+48,Sidhu-Jaggi,Neel Dhaliwal,aarav46@ray-randhawa.info,912295859554.0,Latur,Rajasthan
+49,Naidu-Pingle,Oni Tandon,slal@korpal-anand.com,913784661011.0,Sambalpur,Meghalaya
+50,Nagarajan Ltd,Farhan Mallick,saradhaliwal@tata.com,913317521485.0,Gwalior,Jharkhand
+51,Bal Plc,Yutika Prakash,halderlekha@chandra.info,545836827.0,Ahmednagar,Haryana
+52,Arora Ltd,Amara Mittal,unknown@supplier.com,9440691877.0,Phusro,Himachal Pradesh
+53,Dhar-Suresh,Girindra Sha,jraju@vasa-bhalla.com,4330050730.0,Dhule,Assam
+54,"Chada, Natarajan And Wadhwa",Rishi Chandran,guptaindira@yadav.com,912865098322.0,Ajmer,Mizoram
+55,Rai Llc,Praneel Banik,manya98@mannan.com,1593368235.0,Jaunpur,Manipur
+56,"Kohli, Sachdev And Dhar",Rehaan Basak,sandhuadweta@sarin.com,918475904324.0,Dhanbad,Chhattisgarh
+57,"Natarajan, Vyas And Radhakrishnan",Ishanvi Bal,rachita38@samra.org,6100576548.0,Akola,Odisha
+58,Chadha Ltd,Libni Roy,avi38@jaggi.com,3254221116.0,Gangtok,Assam
+59,Shah-Gour,Unknown,anirudh08@shanker.com,5806663471.0,Miryalaguda,Karnataka
+60,Khosla Inc,Tarak Buch,merchantupkaar@de.net,918866052426.0,Surendranagar Dudhrej,Manipur
+61,Savant Plc,Arin Verma,igole@bajaj-dewan.info,919303549460.0,Rajpur Sonarpur,Manipur
+62,Sandhu And Sons,Indali Chawla,hemangganesan@sura.com,8285301661.0,Hajipur,Gujarat
+63,"Nagarajan, Karan And Bala",Ishaan Butala,madhavi99@mannan-viswanathan.net,7849577125.0,Siwan,Kerala
+64,Wason Inc,Sachi Mistry,yatan55@krishnamurthy-nath.com,2156692944.0,Anantapur,Madhya Pradesh
+65,Keer-Lata,Hamsini Deo,bviswanathan@de.com,9314850893.0,Eluru,Uttarakhand
+66,"Divan, Dutta And Khurana",Veda Sibal,balhaarnadkarni@sha-rajagopal.net,7737166451.0,Jamshedpur,Chhattisgarh
+67,Ratti Llc,Manthan Parsa,thakurtimothy@raju.biz,917147366898.0,Nagercoil,Jharkhand
+68,"Kapur, Tella And Bir",Amrita Tripathi,hritiksem@pall-parekh.com,2856913896.0,Vijayawada,West Bengal
+69,"Lanka, Sethi And Gala",Mitali Buch,wseshadri@dubey.biz,910644136002.0,Arrah,Assam
+70,"Kunda, Nagarajan And Virk",Akshay Chakrabarti,irya97@manne.com,918534516586.0,Miryalaguda,Maharashtra
+71,Padmanabhan Group,Gavin Sachar,anaidu@de-mukhopadhyay.org,6789725516.0,Kishanganj,Haryana
+72,Roy Inc,Qushi Dara,ebarman@sawhney.biz,4699468802.0,Kadapa,Uttar Pradesh
+73,Wadhwa Plc,Bachittar Munshi,vasatika66@panchal.com,3622359648.0,Nangloi Jat,Kerala
+74,Mukhopadhyay Inc,Andrew Dey,wakeeta13@yadav.info,8039626796.0,Rajkot,Odisha
+75,Rege Plc,Anita Jain,amrutanarain@chokshi.com,918670598667.0,Hosur,Sikkim
+76,"Bhattacharyya, Pillai And Johal",Prisha Thakkar,muniturvi@ramanathan.com,4539354403.0,Jaunpur,Jharkhand
+77,Shankar-Guha,Bishakha Narain,inaya37@comar.biz,914963181140.0,Udaipur,Uttarakhand
+78,Sibal Ltd,Falan Majumdar,badalsaumya@saini.biz,916637732920.0,Tiruppur,West Bengal
+79,Ahluwalia-Nagar,Utkarsh Gandhi,oscar72@parekh.com,913743277380.0,Pudukkottai,Karnataka
+80,Naik And Sons,Ira Bhagat,vrinda21@majumdar.com,9676829033.0,North Dumdum,Gujarat
+81,"Borra, Mammen And Chakraborty",Bhanumati Reddy,kallaeta@cheema.com,917043198730.0,Ambarnath,Kerala
+82,"Dhingra, Garde And Kumer",Yatan Dhaliwal,jgoda@sankaran.net,7307616725.0,Avadi,Uttarakhand
+83,Mohan-Sani,Charles Aggarwal,jyoti37@dhaliwal.com,597380185.0,Barasat,Meghalaya
+84,Dash And Sons,Bhavini Patel,girindrapandya@banerjee-mahajan.com,399466881.0,Serampore,Tamil Nadu
+85,Ram Plc,Bakhshi Mann,vargheseabdul@nigam.com,914495639351.0,Shimla,Maharashtra
+86,"Nagarajan, Roy And Devi",Yagnesh Pillai,mmalhotra@purohit.com,910141354487.0,Sasaram,Manipur
+87,Sen-Narasimhan,Lakshit Lad,uchoudhary@sarraf.com,6295247116.0,Bhopal,Tripura
+88,Ramachandran Inc,Champak Gopal,ysengupta@ratti.org,4859188212.0,Kirari Suleman Nagar,Assam
+89,Chatterjee-Dar,Irya Keer,jaggisathvik@srinivasan.com,912762671721.0,Khora ,Kerala
+90,"Ravel, Ray And Bose",Onveer Yadav,rloyal@sahota.org,913449011062.0,Ramagundam,Chhattisgarh
+91,Peri-Rattan,Chanchal Oza,lsoman@saran.com,2465686598.0,Arrah,Andhra Pradesh
+92,"Rout, Bhavsar And Sabharwal",Shivansh Sem,vanshabhatt@sharaf.com,917373304804.0,Kalyan-Dombivli,Bihar
+93,Kota-Gandhi,Maanav Mohanty,garashaurya@zacharia-kaul.biz,915656338525.0,Mau,Sikkim
+94,Bassi-Chana,Maanav Bora,agastya05@chatterjee-sawhney.org,917434885330.0,Secunderabad,Sikkim
+95,Iyengar-Lad,Rudra Borra,lvig@purohit.com,917817132077.0,Adoni,Mizoram
+96,Chhabra Ltd,Azad Kaur,udarsh64@chad.info,911644249688.0,Bareilly,Maharashtra
+97,Kara-Jani,Ekapad Kaul,krishkeer@nagi-madan.com,2311454938.0,Tirunelveli,Karnataka
+98,Choudhry-Murty,Manthan Sethi,rloyal@banerjee.com,911715218083.0,Pimpri-Chinchwad,Sikkim
+99,Thakur-Karan,Vivaan Kulkarni,vchandra@sridhar.com,915506964618.0,Berhampore,Bihar
+100,Karan-Mittal,Eiravati Bose,vedhika22@raja-viswanathan.com,Not Available,Ulhasnagar,Nagaland
+101,Kari And Sons,Suhani Ghosh,zansi47@chaudhry-jhaveri.com,6703329721.0,Chennai,Odisha
+102,"Chander, D’Alia And Bora",Rajeshri Buch,darikayogi@balasubramanian.biz,3120753159.0,Bokaro,Himachal Pradesh
+103,"Bhalla, Kanda And Kata",Unknown,arjun23@seshadri.com,8168525157.0,Bhiwani,Goa
+104,Jhaveri And Sons,Kashish Loke,chandreshchowdhury@krishnamurthy.com,1227642828.0,Bijapur,Rajasthan
+105,Savant-Bora,Ekantika Sharaf,kadebaghyawati@prabhakar.com,5260467162.0,Unnao,Jharkhand
+106,Andra-Borde,Avni Mann,qabil02@bajwa.info,325587638.0,Danapur,Karnataka
+107,Boase-Shukla,Fiyaz Chaudhari,jyotirattan@bhagat.com,7053873980.0,Anantapuram,West Bengal
+108,Narula Plc,Ekapad Doshi,zdevi@choudhry.com,912850811295.0,Ujjain,Telangana
+109,Keer-Oak,Sudiksha Seth,tarak27@subramaniam.info,7976493668.0,Ranchi,Meghalaya
+110,Deep Ltd,Chakrika Saraf,aradhana03@mandal.biz,917003301368.0,Ahmedabad,Tamil Nadu
+111,Narasimhan-Ghose,Hredhaan Palla,saranavi@das.com,5470296667.0,Gwalior,Odisha
+112,Ramachandran Plc,Dayita Devan,hamsini81@shere.com,4726196813.0,Pune,Assam
+113,"Bahri, Bobal And Pant",Neel Rai,unknown@supplier.com,1789277373.0,Panvel,Telangana
+114,"Khosla, Kade And Gera",Gaurang Dugar,zashilbains@sahni.com,910212495931.0,Bikaner,Manipur
+115,Kala-Chad,Panini Nagi,duttekapad@kota.com,912378660458.0,Nagaon,Chhattisgarh
+116,Sengupta-Deshmukh,Anita Saraf,vamakshiratti@kalita-bhargava.com,3499170445.0,Karawal Nagar,Arunachal Pradesh
+117,"Jhaveri, Barad And Halder",Qasim Kala,lmani@dalia.org,917555716672.0,Indore,Karnataka
+118,Bhardwaj Ltd,Varsha Shenoy,bravi@mody.info,2738175272.0,Avadi,Uttarakhand
+119,Jani Plc,Darpan Ramachandran,manya49@dash.net,2128530744.0,Aligarh,Meghalaya
+120,Gour Ltd,Edhitha Babu,nguha@savant-nori.com,912887079502.0,Jaipur,Goa
+121,Chaudhuri And Sons,Qasim Loke,dadateerth@bawa-babu.info,917995176050.0,Chandigarh,Haryana
+122,"Bhasin, Gara And Lall",Dayita Rajagopal,adityaramakrishnan@bose-chacko.com,917674315737.0,Bhubaneswar,Rajasthan
+123,Pingle-Garg,Hardik Dugar,ekalingadalal@nori-date.com,6308451941.0,Siwan,Andhra Pradesh
+124,"Contractor, Sheth And Chaudhuri",Wakeeta Salvi,kavya28@yadav.com,919097373520.0,Anantapuram,Arunachal Pradesh
+125,Manda Llc,Jonathan Ray,noahkakar@batra-garde.biz,8439329232.0,Aizawl,Sikkim
+126,"Kapoor, Chanda And Ahuja",Unnati Parmar,misrafalak@vyas-prakash.com,3585394538.0,Dehradun,Rajasthan
+127,"Peri, Bajaj And Sandal",Hredhaan Chakrabarti,ghoshkala@roy.com,662130553.0,Surendranagar Dudhrej,Rajasthan
+128,"Purohit, Bose And Munshi",Abhiram Bahri,inayamangat@devan.info,7724632316.0,Bulandshahr,Sikkim
+129,Wadhwa Plc,Ayushman Modi,rattigautami@grover-narayan.net,Not Available,Loni,Nagaland
+130,Mutti And Sons,Aashi Bali,sachi02@rajagopal-aurora.com,3875775274.0,Kozhikode,Maharashtra
+131,"Dass, Wable And Sankaran",Oni Mangat,chameli79@rao.biz,912909881395.0,Sambalpur,Assam
+132,"Patla, Arya And Oak",Zayyan Chowdhury,asastry@boase.com,918135060968.0,Jammu,Tripura
+133,Gade-Rau,Sudiksha Dua,vighiral@lad.com,915419317237.0,Madurai,Uttar Pradesh
+134,"Chhabra, Mistry And Vora",Bhavini Konda,lajitasridhar@toor-nath.com,3736892175.0,Bhimavaram,Tamil Nadu
+135,"Varkey, Nadkarni And Suri",Shivansh Khare,vaidyaom@pillay.com,1181670335.0,Kolhapur,Karnataka
+136,Dass-Dubey,Upkaar Narang,bhattivasana@sura-nadkarni.com,3739289174.0,Katni,Uttar Pradesh
+137,Rana-Mahal,Krisha Mishra,ithakur@narain.com,913284184519.0,Raiganj,Mizoram
+138,Bora-Balan,Jagdish Natt,pnarain@muni.com,7748478345.0,Arrah,Punjab
+139,Karpe Llc,Aarnav Sankaran,janya81@rai.net,6252302159.0,Pondicherry,Bihar
+140,"Das, Rama And Salvi",Osha Prabhu,zratti@lall-ramaswamy.com,6324325500.0,Durg,Manipur
+141,Doctor-Chhabra,Edhitha Patil,xdugar@vala.org,3040181984.0,Vijayanagaram,West Bengal
+142,"Mistry, Tandon And Shukla",Udant Chahal,ubadami@khalsa-natarajan.info,9559900688.0,Sasaram,Goa
+143,Tella Plc,Neelima Gole,tdara@venkataraman.org,3321792751.0,Bhusawal,Bihar
+144,"Mitter, Bali And Banerjee",Amol Rau,aoommen@borra.com,912023635679.0,Chandrapur,Manipur
+145,Ben-Konda,Liam Maharaj,surabishakha@jani.com,917032726158.0,Madanapalle,Chhattisgarh
+146,"Ganesan, Zacharia And Bhatia",Damyanti Nori,amruta23@hayer-pai.biz,916888718900.0,Aizawl,Bihar
+147,Sama Plc,Ojasvi Contractor,darpan45@majumdar.com,4031512824.0,Hospet,Tamil Nadu
+148,Barad Plc,Naksh Boase,madanyashawini@acharya.org,348135490.0,Solapur,Rajasthan
+149,Shan-Bassi,Sanya Shan,libnitripathi@mahal.com,914812674119.0,Erode,Assam
+150,"Mann, Sharma And Agarwal",Omya Varty,natarajanazad@parmar.com,919986206802.0,Pali,Odisha
+151,Master-Gala,Abha Bains,priya12@varty.info,4098276032.0,Bihar Sharif,Meghalaya
+152,"Mall, Shah And Sarna",Ikshita Bath,hsant@wadhwa.com,6149827413.0,Rampur,Sikkim
+153,Sankaran-Walia,Indali Nath,jeevika79@golla.net,5807432758.0,Ambala,Nagaland
+154,Butala-Kar,Quincy Ganesan,nayarsaksham@purohit.com,8361740416.0,Madanapalle,Uttar Pradesh
+155,"Dasgupta, Gopal And Sachdeva",George Dhar,qadim42@agrawal-mutti.biz,915966142944.0,Belgaum,Rajasthan
+156,Sachdeva-Bajaj,Sara Agarwal,lraja@jain.com,914248692879.0,Kochi,Telangana
+157,"Bhattacharyya, Joshi And Rau",Varenya Viswanathan,nirja12@mody.com,2202367505.0,Bhilwara,Assam
+158,Prabhu Inc,Patrick Lad,klata@chana-vala.com,919451553001.0,Nagpur,Andhra Pradesh
+159,Baria Inc,Rehaan Kamdar,rayaan59@hayer.net,913676552649.0,Gangtok,Uttar Pradesh
+160,Ram-Krishnan,Liam Nair,veda16@bir.net,2927260525.0,Kakinada,Goa
+161,Pandya-Barad,Ranbir Shah,laddakshesh@barman.com,4588020663.0,New Delhi,Manipur
+162,"Krishnan, Patil And Chana",Falak Narayanan,bhavsarganga@patla-puri.org,919957798353.0,Phusro,Nagaland
+163,"Contractor, Chandra And Goswami",Vidhi Balakrishnan,zarnakant@apte.com,917818526633.0,Varanasi,Manipur
+164,Lala Ltd,Manya Kara,qarin25@walia.com,6634359578.0,Buxar,Meghalaya
+165,"Dubey, Roy And Dani",Abhimanyu Yadav,irandhawa@kaur-chander.com,4909826321.0,Karaikudi,Nagaland
+166,"Mandal, Lalla And Uppal",Raghav Kashyap,srinivasangagan@kadakia-kari.org,916110549183.0,Sonipat,Maharashtra
+167,Raval-Chawla,Tanay Purohit,tejassalvi@chaudhary-nazareth.com,9241448010.0,Bahraich,Jharkhand
+168,Lad-Batta,Diya Butala,nbutala@bajwa-chaudhari.org,3892875771.0,Mango,Haryana
+169,"Walla, Srinivas And Ratta",Janaki Kumar,hkashyap@rama-parsa.org,911359526607.0,Gudivada,Uttarakhand
+170,Ahluwalia Inc,Lucky Barman,arattan@de-balasubramanian.org,2390925926.0,Khora ,Manipur
+171,"Balakrishnan, Hari And Hari",Gayathri Bumb,tsharaf@seth.com,919830657669.0,Vasai-Virar,Jharkhand
+172,"Palla, Bora And Chand",Chaman Pandit,chauhaneshana@soman.info,3125034146.0,Mahbubnagar,Tripura
+173,Ram-Kannan,Ganga Dayal,blanka@bajaj.com,6855791117.0,Sri Ganganagar,Nagaland
+174,"Natt, Varty And Dhawan",Geetika Varty,ymani@samra-gole.com,2050017926.0,Erode,Tamil Nadu
+175,Bedi-Rana,Agastya Varty,tmangal@banik-memon.biz,8137477055.0,Bahraich,Jharkhand
+176,"Palla, Bhatt And Chana",Chandresh Bali,uthaker@sachdev.com,Not Available,Fatehpur,Punjab
+177,Sura Plc,Aarav Sankaran,mohini60@kunda.com,9498091604.0,Panihati,Odisha
+178,Kulkarni Group,Unni Shankar,parth42@munshi-dugal.net,914720216798.0,Karawal Nagar,Uttar Pradesh
+179,"Ganguly, Brar And Ramanathan",Ishaan Bala,peter55@dhar-sachdeva.com,912378922552.0,Bulandshahr,Gujarat
+180,"Dhillon, Anand And Rama",Jatin More,leelabandi@gola-sood.net,913081787387.0,Danapur,Jharkhand
+181,"Bajwa, Kar And Hora",Matthew Pingle,xaviermohanty@sibal.com,4282306332.0,Rourkela,Telangana
+182,"Uppal, Samra And Puri",Isaac Desai,qabil95@srinivasan.com,7047748349.0,Darbhanga,West Bengal
+183,"Bhatti, Khurana And Chaudhry",Raghav Raghavan,unknown@supplier.com,4396688090.0,Loni,Tripura
+184,Morar Plc,Anthony Pandey,charvi12@memon-thaman.biz,914918723667.0,Nellore,Andhra Pradesh
+185,"Raj, Kothari And Pillai",Amol Modi,saipalla@narang-pandit.biz,1320560365.0,Gwalior,Haryana
+186,Chacko-Deol,Mitesh Badami,ekbalom@pau-brar.biz,1069139967.0,Narasaraopet,Tamil Nadu
+187,Dey-Palan,Dev Rama,comarutkarsh@sehgal-gola.com,919960493773.0,Mango,Andhra Pradesh
+188,"Devan, Kumer And Dyal",Chaman Sengupta,chakrabartinihal@arya.org,4748040383.0,Singrauli,Uttar Pradesh
+189,Ranganathan-Brahmbhatt,Odika Narayanan,mayaram@ghose.com,464500922.0,Amroha,Bihar
+190,"Pall, Sur And Ram",Rayaan Kulkarni,siddharth19@solanki.net,1986643840.0,Vellore,Gujarat
+191,Atwal Llc,Inaya Bhargava,bgopal@ram.org,911009396297.0,Kolhapur,Maharashtra
+192,Brahmbhatt Ltd,Radha Shere,chandraurvi@banik-basak.org,2180146584.0,Pondicherry,Chhattisgarh
+193,Shah Ltd,Ishani Shroff,kritikachatterjee@bose.com,8579030657.0,Rampur,Karnataka
+194,"Agarwal, Balakrishnan And Virk",Samar Dhawan,upma08@bhargava.com,921072731.0,Raurkela Industrial Township,Tamil Nadu
+195,Mall And Sons,Chakradhar Korpal,vshan@ramesh.com,1591440670.0,South Dumdum,Chhattisgarh
+196,Chakrabarti Plc,Yashawini Edwin,pperi@bhasin-gaba.biz,729719729.0,Srinagar,Gujarat
+197,Baral Plc,Damini Thakkar,dhillonlaksh@taneja-kata.info,4055745763.0,Farrukhabad,Arunachal Pradesh
+198,Bhakta Ltd,Aarav Mishra,sandalmohammed@mody-tripathi.net,912014568118.0,Kumbakonam,Mizoram
+199,Bassi-Cherian,Pushti Panchal,bhavani15@master-chopra.biz,6596858472.0,Hosur,Telangana
+200,"Bali, Ratti And Cheema",Yochana Chandran,unknown@supplier.com,3676680179.0,Kurnool,Odisha

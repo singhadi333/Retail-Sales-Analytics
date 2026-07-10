@@ -4,52 +4,53 @@ import random
 random.seed(42)
 
 # Read clean dataset
-df = pd.read_csv("data/generated/products.csv")
+df = pd.read_csv("data/generated/orders.csv")
 
 # ---------------------------------
-# 1. Missing Brand (2%)
+# 1. Missing Shipping Address (2%)
 # ---------------------------------
 rows = df.sample(frac=0.02, random_state=1).index
-df.loc[rows, "brand"] = None
+df.loc[rows, "shipping_address"] = None
 
 # ---------------------------------
-# 2. Missing Product Name (1%)
+# 2. Missing Order Status (1%)
 # ---------------------------------
 rows = df.sample(frac=0.01, random_state=2).index
-df.loc[rows, "product_name"] = None
+df.loc[rows, "order_status"] = None
 
 # ---------------------------------
-# 3. Negative Stock Quantity (1%)
+# 3. Negative Total Amount (0.5%)
 # ---------------------------------
-rows = df.sample(frac=0.01, random_state=3).index
-df.loc[rows, "stock_quantity"] = -10
+rows = df.sample(frac=0.005, random_state=3).index
+df.loc[rows, "total_amount"] *= -1
 
 # ---------------------------------
-# 4. Selling Price Less Than Cost Price (1%)
+# 4. Future Order Dates (0.5%)
 # ---------------------------------
-rows = df.sample(frac=0.01, random_state=4).index
-df.loc[rows, "selling_price"] = df.loc[rows, "cost_price"] * 0.8
+df["order_date"] = pd.to_datetime(df["order_date"])
 
-# ---------------------------------
-# 5. Extra Spaces in Product Name (1%)
-# ---------------------------------
-rows = df.sample(frac=0.01, random_state=5).index
-df.loc[rows, "product_name"] = (
-    " " + df.loc[rows, "product_name"].fillna("") + " "
+rows = df.sample(frac=0.005, random_state=4).index
+
+future_dates = pd.date_range(
+    start="2027-01-01",
+    periods=len(rows),
+    freq="D"
 )
 
+df.loc[rows, "order_date"] = future_dates
+
 # ---------------------------------
-# 6. Duplicate Records (1%)
+# 5. Duplicate Orders (1%)
 # ---------------------------------
-duplicates = df.sample(frac=0.01, random_state=6)
+duplicates = df.sample(frac=0.01, random_state=5)
 df = pd.concat([df, duplicates], ignore_index=True)
 
 # Save Raw Dataset
 df.to_csv(
-    "data/raw/products.csv",
+    "data/raw/orders.csv",
     index=False,
     encoding="utf-8"
 )
 
-print("Raw Products Dataset Created Successfully!")
+print("Raw Orders Dataset Created Successfully!")
 print(df.shape)
