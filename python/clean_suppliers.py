@@ -43,10 +43,17 @@ df["contact_person"] = df["contact_person"].str.title()
 # -----------------------------
 email_pattern = r'^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$'
 
-df.loc[
-    ~df["email"].fillna("").str.match(email_pattern),
-    "email"
-] = "unknown@supplier.com"
+# -----------------------------
+# Fix missing/invalid emails
+# -----------------------------
+email_pattern = r'^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$'
+
+invalid_mask = ~df["email"].fillna("").str.match(email_pattern)
+
+df.loc[invalid_mask, "email"] = [
+    f"unknown_supplier_{i}@shopsmart.com"
+    for i in df.index[invalid_mask]
+]
 
 # -----------------------------
 # Save cleaned dataset

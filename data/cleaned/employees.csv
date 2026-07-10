@@ -5,7 +5,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 4,Madhav,Kalla,gautamidevi@example.net,1922812313.0,8,Inventory Executive,49372,2026-01-25 00:00:00.000000
 5,Michael,Sane,datechandani@example.org,334619421.0,9,Inventory Executive,50759,2025-01-28 00:00:00.000000
 6,Ekanta,Hari,xsalvi@example.org,918013284089.0,6,Cashier,77971,2021-03-11 00:00:00.000000
-7,Naveen,Chauhan,fkoshy@example.net,7620936528.0,10,Inventory Executive,26890,2026-07-10 18:45:39.064477
+7,Naveen,Chauhan,fkoshy@example.net,7620936528.0,10,Inventory Executive,26890,2026-07-10 20:59:14.147594
 8,Zarna,Merchant,oeshipadmanabhan@example.com,5961699570.0,3,Cashier,56465,2022-06-07 00:00:00.000000
 9,Ganga,Radhakrishnan,ramlopa@example.net,375809812.0,4,Inventory Executive,62141,2021-11-23 00:00:00.000000
 10,Akshay,Narula,ishaan01@example.org,5059334882.0,10,Store Manager,51486,2024-01-28 00:00:00.000000
@@ -15,7 +15,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 14,Megha,Jani,daksheshmukherjee@example.org,6732613193.0,2,Store Manager,75879,2023-06-13 00:00:00.000000
 15,Wishi,Saini,mbassi@example.org,916440963014.0,6,Store Manager,48605,2020-12-24 00:00:00.000000
 16,Bishakha,Maharaj,msahota@example.org,8800189865.0,9,Store Manager,45131,2023-12-11 00:00:00.000000
-17,Zayyan,Jayaraman,fbehl@example.org,5176976415.0,4,Cashier,34704,2019-05-18 00:00:00.000000
+17,Zayyan,Jayaraman,fbehl@example.org,5176976415.0,4,Cashier,-34704,2019-05-18 00:00:00.000000
 18,Vasudha,Madan,ldugar@example.org,8792778636.0,6,Sales Executive,36247,2019-03-28 00:00:00.000000
 19,Girik,Agarwal,latabhanumati@example.com,914073860521.0,8,Sales Executive,47237,2021-07-23 00:00:00.000000
 20,Noah,Pandey,ukunda@example.com,5856986828.0,3,Sales Executive,28996,2020-09-21 00:00:00.000000
@@ -81,7 +81,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 80,Pushti,Rattan,shuklapanini@example.com,6587196394.0,2,Inventory Executive,18696,2021-12-18 00:00:00.000000
 81,Nidhi,Nayar,gandhijanya@example.net,990915553.0,9,Sales Executive,41070,2024-08-10 00:00:00.000000
 82,Maya,Chacko,byogi@example.net,919058529679.0,6,Cashier,23743,2020-02-23 00:00:00.000000
-83,Balendra,Narain,jhaverimohammed@example.com,9452644951.0,4,Inventory Executive,46408,2024-07-21 00:00:00.000000
+83,Balendra,Narain,jhaverimohammed@example.com,9452644951.0,4,Inventory Executive,-46408,2024-07-21 00:00:00.000000
 84,Omya,Doctor,banjeetgolla@example.net,9305899830.0,1,Sales Executive,33757,2021-02-18 00:00:00.000000
 85,Wyatt,Dayal,arunimamand@example.net,6845128673.0,5,Cashier,54895,2018-08-25 00:00:00.000000
 86,Adweta,Gour,amruta19@example.net,3881903018.0,6,Cashier,72998,2026-07-02 00:00:00.000000
@@ -124,7 +124,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 123,Vanya,Parmar,fredericksandhu@example.net,913719088964.0,1,Cashier,38634,2023-01-23 00:00:00.000000
 124,Ijaya,Chanda,ashankar@example.net,4675228311.0,4,Cashier,44522,2023-06-10 00:00:00.000000
 125,Aarush,Rajan,bhavnagupta@example.org,912955628985.0,4,Cashier,68505,2019-04-03 00:00:00.000000
-126,Wriddhish,Ahluwalia,unknown@company.com,917312051644.0,4,Inventory Executive,32312,2025-04-13 00:00:00.000000
+126,Wriddhish,Ahluwalia,unknown_employee_126@shopsmart.com,917312051644.0,4,Inventory Executive,32312,2025-04-13 00:00:00.000000
 127,Ishani,Bhatt,vhalder@example.org,4801464723.0,3,Sales Executive,78097,2024-05-13 00:00:00.000000
 128,Jhalak,Nori,ishwar99@example.org,6870777647.0,2,Sales Executive,48618,2021-04-29 00:00:00.000000
 129,Jeevika,Taneja,ayaan27@example.com,1500476622.0,1,Store Manager,70596,2019-08-22 00:00:00.000000
@@ -171,7 +171,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 170,Amol,Kari,hardik36@example.org,919490328666.0,2,Sales Executive,36150,2022-05-31 00:00:00.000000
 171,Hema,Yadav,nachiket73@example.com,3599792172.0,9,Store Manager,69842,2020-01-13 00:00:00.000000
 172,Anya,Sur,bhavna30@example.org,1257754922.0,9,Store Manager,72798,2021-07-31 00:00:00.000000
-173,Rachit,Saini,unknown@company.com,3180235008.0,6,Inventory Executive,27355,2025-09-21 00:00:00.000000
+173,Rachit,Saini,unknown_employee_173@shopsmart.com,3180235008.0,6,Inventory Executive,27355,2025-09-21 00:00:00.000000
 174,Yamini,Dhar,ndass@example.org,914979180962.0,1,Store Manager,52495,2022-10-19 00:00:00.000000
 175,Yagnesh,Divan,amanda@example.org,919877327449.0,4,Inventory Executive,35773,2021-07-28 00:00:00.000000
 176,Kalpit,Guha,hsem@example.com,5184188583.0,1,Sales Executive,24242,2020-10-07 00:00:00.000000
@@ -183,7 +183,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 182,Nilima,Lalla,shavictor@example.net,913979242079.0,1,Sales Executive,69189,2025-01-01 00:00:00.000000
 183,Niharika,Sanghvi,patrick50@example.org,911981071068.0,4,Inventory Executive,76446,2021-10-31 00:00:00.000000
 184,Mugdha,Bhatia,faraj27@example.com,7303344477.0,3,Cashier,56272,2024-12-26 00:00:00.000000
-185,Lekha,Rau,sarthaksaraf@example.net,9108235709.0,3,Inventory Executive,37170,2026-07-10 18:45:39.064477
+185,Lekha,Rau,sarthaksaraf@example.net,9108235709.0,3,Inventory Executive,37170,2026-07-10 20:59:14.147594
 186,Samesh,Pradhan,dalalikshita@example.net,7541654791.0,10,Cashier,66380,2025-02-13 00:00:00.000000
 187,Ladli,Vasa,aishanideshmukh@example.net,5018558573.0,9,Cashier,64355,2021-03-07 00:00:00.000000
 188,Dalaja,Acharya,nayarbachittar@example.com,7629583349.0,7,Store Manager,29995,2025-05-26 00:00:00.000000
@@ -196,7 +196,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 195,Wahab,Chacko,onveer39@example.net,5262351935.0,1,Cashier,32964,2018-11-27 00:00:00.000000
 196,Henry,Vohra,abhimanyu65@example.net,8031910140.0,10,Inventory Executive,50675,2020-08-26 00:00:00.000000
 197,Faqid,Wason,anya96@example.net,4039741093.0,4,Store Manager,45437,2018-10-16 00:00:00.000000
-198,Harrison,Contractor,unknown@company.com,7310009856.0,2,Inventory Executive,68558,2023-08-30 00:00:00.000000
+198,Harrison,Contractor,unknown_employee_198@shopsmart.com,7310009856.0,2,Inventory Executive,68558,2023-08-30 00:00:00.000000
 199,Omaja,Dada,trivenimishra@example.org,2849918371.0,9,Inventory Executive,49528,2024-09-17 00:00:00.000000
 200,Gaurika,Gopal,saneoni@example.org,4208679739.0,1,Inventory Executive,29116,2019-07-16 00:00:00.000000
 201,Osha,Madan,nhans@example.com,914969726899.0,5,Store Manager,43526,2024-07-05 00:00:00.000000
@@ -290,7 +290,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 289,Garima,Deshpande,dayalekapad@example.com,2874248466.0,1,Inventory Executive,56586,2023-04-12 00:00:00.000000
 290,Leena,Anne,ychakraborty@example.net,2839407163.0,6,Sales Executive,75522,2022-03-05 00:00:00.000000
 291,Naksh,Kibe,nicholas87@example.com,6408810536.0,10,Inventory Executive,35232,2018-10-22 00:00:00.000000
-292,Samarth,Cheema,unknown@company.com,917287623824.0,7,Sales Executive,70131,2019-01-05 00:00:00.000000
+292,Samarth,Cheema,unknown_employee_292@shopsmart.com,917287623824.0,7,Sales Executive,70131,2019-01-05 00:00:00.000000
 293,Girik,Shroff,vinayabir@example.com,911218077069.0,3,Cashier,63727,2024-02-09 00:00:00.000000
 294,Gaurav,Shanker,bediabha@example.net,8659198003.0,5,Cashier,27363,2025-02-15 00:00:00.000000
 295,Geetika,Ratti,dhruv11@example.org,6497596228.0,1,Sales Executive,57127,2022-01-10 00:00:00.000000
@@ -327,7 +327,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 326,Rudra,Sarraf,advaith03@example.org,5767897077.0,7,Inventory Executive,71667,2019-04-09 00:00:00.000000
 327,Bahadurjit,Chaudhari,chanakya63@example.org,4421758485.0,9,Inventory Executive,77645,2023-12-15 00:00:00.000000
 328,Ria,Viswanathan,pranavsuri@example.com,7802545177.0,2,Inventory Executive,38212,2019-07-02 00:00:00.000000
-329,Varenya,Upadhyay,unknown@company.com,4621790220.0,4,Inventory Executive,67607,2022-04-10 00:00:00.000000
+329,Varenya,Upadhyay,unknown_employee_329@shopsmart.com,4621790220.0,4,Inventory Executive,67607,2022-04-10 00:00:00.000000
 330,Sanaya,Peri,zsani@example.net,5125049055.0,7,Sales Executive,27094,2019-11-26 00:00:00.000000
 331,Ronith,Sani,anusha45@example.org,917486677592.0,6,Store Manager,52947,2022-09-18 00:00:00.000000
 332,Gagan,Murthy,tarak46@example.org,7293959427.0,10,Cashier,38207,2026-06-19 00:00:00.000000
@@ -338,10 +338,10 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 337,Xiti,Mannan,shauryamukhopadhyay@example.com,913414071503.0,1,Store Manager,61526,2021-12-11 00:00:00.000000
 338,Unnati,Narang,paninisane@example.com,916192803857.0,2,Store Manager,76405,2025-09-28 00:00:00.000000
 339,Vyanjana,Prabhakar,kamdarshivani@example.net,9696046090.0,6,Cashier,22675,2024-09-09 00:00:00.000000
-340,Abha,Khosla,unknown@company.com,912706760649.0,4,Inventory Executive,31185,2022-07-14 00:00:00.000000
+340,Abha,Khosla,unknown_employee_340@shopsmart.com,912706760649.0,4,Inventory Executive,31185,2022-07-14 00:00:00.000000
 341,Turvi,Bhandari,kumeraadhya@example.net,1983743941.0,5,Inventory Executive,58756,2020-02-03 00:00:00.000000
 342,Praneel,Palla,riyakoshy@example.net,5868956868.0,9,Sales Executive,59362,2020-06-28 00:00:00.000000
-343,Samar,Muni,unknown@company.com,914220075291.0,8,Store Manager,56909,2026-05-11 00:00:00.000000
+343,Samar,Muni,unknown_employee_343@shopsmart.com,914220075291.0,8,Store Manager,56909,2026-05-11 00:00:00.000000
 344,Owen,Ganesh,amruta95@example.net,3764066183.0,10,Inventory Executive,63747,2019-05-17 00:00:00.000000
 345,Yahvi,Babu,patilveda@example.net,6054152702.0,3,Inventory Executive,48161,2019-07-03 00:00:00.000000
 346,Faqid,Das,xagarwal@example.com,7955141171.0,2,Inventory Executive,25273,2021-06-01 00:00:00.000000
@@ -364,7 +364,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 363,Madhavi,Upadhyay,sanaya00@example.com,2831473522.0,10,Sales Executive,78848,2020-12-09 00:00:00.000000
 364,Gautami,Ganesan,nicholas96@example.org,8436162378.0,2,Cashier,55535,2024-11-25 00:00:00.000000
 365,Urmi,Dhaliwal,pantudyati@example.com,9866127491.0,10,Inventory Executive,31031,2025-10-20 00:00:00.000000
-366,Yashoda,Chauhan,yashasvijaggi@example.org,494120044.0,5,Store Manager,47433,2019-01-13 00:00:00.000000
+366,Yashoda,Chauhan,yashasvijaggi@example.org,494120044.0,5,Store Manager,-47433,2019-01-13 00:00:00.000000
 367,Lohit,Kar,udeep@example.org,9668551044.0,7,Cashier,20103,2022-11-04 00:00:00.000000
 368,Qushi,Mall,aarnapandit@example.net,3619354580.0,9,Inventory Executive,67491,2023-07-08 00:00:00.000000
 369,Udant,Koshy,gpillay@example.com,917960275179.0,9,Sales Executive,31296,2023-11-26 00:00:00.000000
@@ -375,7 +375,7 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 374,Girish,Jaggi,varghesefaqid@example.net,9732993139.0,6,Cashier,70520,2022-10-28 00:00:00.000000
 375,Siddharth,Ghose,xgaba@example.com,4038844167.0,1,Cashier,48244,2024-09-07 00:00:00.000000
 376,Nitara,Bala,saiarya@example.org,1558114858.0,6,Store Manager,52082,2026-01-13 00:00:00.000000
-377,Amruta,Dass,dsekhon@example.com,2058791773.0,5,Store Manager,65368,2020-05-24 00:00:00.000000
+377,Amruta,Dass,dsekhon@example.com,2058791773.0,5,Store Manager,-65368,2020-05-24 00:00:00.000000
 378,Qasim,Lad,nihal84@example.org,1123796717.0,8,Inventory Executive,52794,2020-04-16 00:00:00.000000
 379,Teerth,Sachar,divyadyal@example.net,2570564761.0,9,Store Manager,36044,2019-05-03 00:00:00.000000
 380,Yashodhara,Sibal,chakradevsalvi@example.com,915074660417.0,7,Inventory Executive,76799,2020-03-20 00:00:00.000000
@@ -397,5 +397,5 @@ employee_id,first_name,last_name,email,phone,store_id,position,salary,joining_da
 396,Henry,Ramakrishnan,basueta@example.net,646987955.0,7,Store Manager,35626,2020-09-13 00:00:00.000000
 397,Ati,Kota,mahikabose@example.com,912491882080.0,1,Sales Executive,61356,2023-12-08 00:00:00.000000
 398,Aarav,Pal,iyerhemang@example.org,6661353740.0,6,Inventory Executive,43014,2018-08-29 00:00:00.000000
-399,Samaksh,Sethi,unknown@company.com,4017021801.0,4,Inventory Executive,68314,2024-07-25 00:00:00.000000
+399,Samaksh,Sethi,unknown_employee_399@shopsmart.com,4017021801.0,4,Inventory Executive,68314,2024-07-25 00:00:00.000000
 400,Charles,Muni,sahniomkaar@example.com,1006967379.0,2,Sales Executive,40500,2019-02-21 00:00:00.000000

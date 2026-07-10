@@ -28,7 +28,7 @@ supplier_id,supplier_name,contact_person,email,phone,city,state
 27,Bail Llc,Harsh Raghavan,damyantichoudhury@natarajan.org,3466216283.0,Kollam,Maharashtra
 28,Nazareth Llc,Manan Goswami,avitiwari@bhatnagar.info,8966951172.0,Vijayawada,West Bengal
 29,Goyal-Parekh,Mason Bala,gdara@batra.com,7034856895.0,Miryalaguda,Odisha
-30,Sachar Llc,Ishwar Choudhury,unknown@supplier.com,911944585948.0,Vasai-Virar,Bihar
+30,Sachar Llc,Ishwar Choudhury,unknown_supplier_29@shopsmart.com,911944585948.0,Vasai-Virar,Bihar
 31,Jaggi Plc,Victor Taneja,aviramesh@wable-bhandari.com,8404702838.0,Bidar,Maharashtra
 32,"Cheema, Puri And Bahl",Odika Ghosh,badaladya@nagarajan-nagarajan.net,610895211.0,Rajpur Sonarpur,Telangana
 33,"Shukla, Dave And Kohli",Lakshit Nagarajan,bbarman@thaker.net,9137157475.0,Gangtok,Punjab
@@ -39,7 +39,7 @@ supplier_id,supplier_name,contact_person,email,phone,city,state
 38,Dara-Som,Dakshesh Pai,sagareiravati@pathak.org,2200034901.0,Ujjain,Himachal Pradesh
 39,Raman Inc,Nidra Sinha,upadhriti17@bahl.com,911350067684.0,Thane,Uttar Pradesh
 40,Misra-Yogi,Warhi Walia,imaranbandi@saraf.com,388555075.0,Tezpur,Tamil Nadu
-41,Basak-Devan,Unknown,unknown@supplier.com,913368573088.0,Pune,Odisha
+41,Basak-Devan,Unknown,unknown_supplier_40@shopsmart.com,913368573088.0,Pune,Odisha
 42,Soni-Deep,Nakul Dey,jsaini@peri.com,917535421428.0,Begusarai,Meghalaya
 43,Oommen-Kakar,Damini Om,edhithapai@buch.info,8051406745.0,Vellore,Haryana
 44,Dada-Sinha,Ikbal Grewal,buchmanan@sem-goda.com,911936206231.0,Bhavnagar,Haryana
@@ -50,7 +50,7 @@ supplier_id,supplier_name,contact_person,email,phone,city,state
 49,Naidu-Pingle,Oni Tandon,slal@korpal-anand.com,913784661011.0,Sambalpur,Meghalaya
 50,Nagarajan Ltd,Farhan Mallick,saradhaliwal@tata.com,913317521485.0,Gwalior,Jharkhand
 51,Bal Plc,Yutika Prakash,halderlekha@chandra.info,545836827.0,Ahmednagar,Haryana
-52,Arora Ltd,Amara Mittal,unknown@supplier.com,9440691877.0,Phusro,Himachal Pradesh
+52,Arora Ltd,Amara Mittal,unknown_supplier_51@shopsmart.com,9440691877.0,Phusro,Himachal Pradesh
 53,Dhar-Suresh,Girindra Sha,jraju@vasa-bhalla.com,4330050730.0,Dhule,Assam
 54,"Chada, Natarajan And Wadhwa",Rishi Chandran,guptaindira@yadav.com,912865098322.0,Ajmer,Mizoram
 55,Rai Llc,Praneel Banik,manya98@mannan.com,1593368235.0,Jaunpur,Manipur
@@ -111,7 +111,7 @@ supplier_id,supplier_name,contact_person,email,phone,city,state
 110,Deep Ltd,Chakrika Saraf,aradhana03@mandal.biz,917003301368.0,Ahmedabad,Tamil Nadu
 111,Narasimhan-Ghose,Hredhaan Palla,saranavi@das.com,5470296667.0,Gwalior,Odisha
 112,Ramachandran Plc,Dayita Devan,hamsini81@shere.com,4726196813.0,Pune,Assam
-113,"Bahri, Bobal And Pant",Neel Rai,unknown@supplier.com,1789277373.0,Panvel,Telangana
+113,"Bahri, Bobal And Pant",Neel Rai,unknown_supplier_112@shopsmart.com,1789277373.0,Panvel,Telangana
 114,"Khosla, Kade And Gera",Gaurang Dugar,zashilbains@sahni.com,910212495931.0,Bikaner,Manipur
 115,Kala-Chad,Panini Nagi,duttekapad@kota.com,912378660458.0,Nagaon,Chhattisgarh
 116,Sengupta-Deshmukh,Anita Saraf,vamakshiratti@kalita-bhargava.com,3499170445.0,Karawal Nagar,Arunachal Pradesh
@@ -181,7 +181,7 @@ supplier_id,supplier_name,contact_person,email,phone,city,state
 180,"Dhillon, Anand And Rama",Jatin More,leelabandi@gola-sood.net,913081787387.0,Danapur,Jharkhand
 181,"Bajwa, Kar And Hora",Matthew Pingle,xaviermohanty@sibal.com,4282306332.0,Rourkela,Telangana
 182,"Uppal, Samra And Puri",Isaac Desai,qabil95@srinivasan.com,7047748349.0,Darbhanga,West Bengal
-183,"Bhatti, Khurana And Chaudhry",Raghav Raghavan,unknown@supplier.com,4396688090.0,Loni,Tripura
+183,"Bhatti, Khurana And Chaudhry",Raghav Raghavan,unknown_supplier_182@shopsmart.com,4396688090.0,Loni,Tripura
 184,Morar Plc,Anthony Pandey,charvi12@memon-thaman.biz,914918723667.0,Nellore,Andhra Pradesh
 185,"Raj, Kothari And Pillai",Amol Modi,saipalla@narang-pandit.biz,1320560365.0,Gwalior,Haryana
 186,Chacko-Deol,Mitesh Badami,ekbalom@pau-brar.biz,1069139967.0,Narasaraopet,Tamil Nadu
@@ -198,4 +198,4 @@ supplier_id,supplier_name,contact_person,email,phone,city,state
 197,Baral Plc,Damini Thakkar,dhillonlaksh@taneja-kata.info,4055745763.0,Farrukhabad,Arunachal Pradesh
 198,Bhakta Ltd,Aarav Mishra,sandalmohammed@mody-tripathi.net,912014568118.0,Kumbakonam,Mizoram
 199,Bassi-Cherian,Pushti Panchal,bhavani15@master-chopra.biz,6596858472.0,Hosur,Telangana
-200,"Bali, Ratti And Cheema",Yochana Chandran,unknown@supplier.com,3676680179.0,Kurnool,Odisha
+200,"Bali, Ratti And Cheema",Yochana Chandran,unknown_supplier_199@shopsmart.com,3676680179.0,Kurnool,Odisha

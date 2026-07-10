@@ -1,77 +1,99 @@
 import pandas as pd
-import numpy as np
 import re
 
 # -----------------------------
-# Load Raw Dataset
+# Read Raw Dataset
 # -----------------------------
 df = pd.read_csv("data/raw/customers.csv")
 
-print("=" * 50)
-print("CUSTOMERS DATA CLEANING")
-print("=" * 50)
+print("Shape Before:", df.shape)
 
-print("\nDataset Shape:", df.shape)
+# -----------------------------
+# Remove Exact Duplicate Rows
+# -----------------------------
+df = df.drop_duplicates()
 
-print("\nMissing Values Before Cleaning:")
-print(df.isnull().sum())
+# -----------------------------
+# Fill Missing Values
+# -----------------------------
+df["first_name"] = df["first_name"].fillna("Unknown")
+df["last_name"] = df["last_name"].fillna("Unknown")
+df["city"] = df["city"].fillna("Unknown")
+df["phone"] = df["phone"].fillna("Not Available")
 
 # -----------------------------
 # Remove Extra Spaces
 # -----------------------------
-df["first_name"] = df["first_name"].str.strip()
-df["last_name"] = df["last_name"].str.strip()
+df["first_name"] = df["first_name"].astype(str).str.strip()
+df["last_name"] = df["last_name"].astype(str).str.strip()
+df["city"] = df["city"].astype(str).str.strip()
 
 # -----------------------------
-# Standardize Names
+# Standardize Text
 # -----------------------------
 df["first_name"] = df["first_name"].str.title()
 df["last_name"] = df["last_name"].str.title()
+df["city"] = df["city"].str.title()
 
 # -----------------------------
-# Fix Missing Cities
-# -----------------------------
-df["city"] = df["city"].fillna("Unknown")
-
-# -----------------------------
-# Fix Missing Phone Numbers
-# -----------------------------
-df["phone"] = df["phone"].fillna("Not Available")
-
-# -----------------------------
-# Remove Invalid Emails
+# Fix Missing / Invalid Emails
 # -----------------------------
 email_pattern = r'^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$'
 
-df.loc[
-    ~df["email"].fillna("").str.match(email_pattern),
-    "email"
-] = np.nan
+invalid_mask = ~df["email"].fillna("").str.match(email_pattern)
+
+df.loc[invalid_mask, "email"] = [
+    f"unknown_customer_{i}@shopsmart.com"
+    for i in df.index[invalid_mask]
+]
 
 # -----------------------------
-# Fill Missing Emails
+# Make ALL Emails Unique
 # -----------------------------
-df["email"] = df["email"].fillna("unknown@email.com")
+duplicate_mask = df["email"].duplicated(keep=False)
+
+for idx in df[duplicate_mask].index:
+    email = df.at[idx, "email"]
+
+    if "@" in email:
+        local, domain = email.split("@", 1)
+        df.at[idx, "email"] = f"{local}_{df.at[idx,'customer_id']}@{domain}"
+    else:
+        df.at[idx, "email"] = f"unknown_customer_{df.at[idx,'customer_id']}@shopsmart.com"
 
 # -----------------------------
 # Convert Join Date
 # -----------------------------
-df["join_date"] = pd.to_datetime(df["join_date"])
+df["join_date"] = pd.to_datetime(df["join_date"], errors="coerce")
 
-# -----------------------------
-# Remove Future Dates
-# -----------------------------
+# Replace invalid dates
+df["join_date"] = df["join_date"].fillna(pd.Timestamp("2024-01-01"))
+
+# Replace future dates
 today = pd.Timestamp.today()
 
 df.loc[df["join_date"] > today, "join_date"] = today
 
 # -----------------------------
-# Remove Duplicate Customers
+# Validation
 # -----------------------------
-df = df.drop_duplicates(subset="customer_id")
+assert df["customer_id"].is_unique, "Duplicate Customer IDs found!"
+assert df["email"].is_unique, "Duplicate emails still exist!"
+assert df["first_name"].isnull().sum() == 0
+assert df["last_name"].isnull().sum() == 0
+assert df["email"].isnull().sum() == 0
+
+print("\nValidation Passed ✓")
+
+print("\nMissing Values")
+print(df.isnull().sum())
+
+print("\nDuplicate Emails:", df["email"].duplicated().sum())
+
+print("\nShape After:", df.shape)
 
 # -----------------------------
-# Save Clean Dataset
+# Save Cleaned Dataset
 # -----------------------------
 df.to_csv(
     "data/cleaned/customers.csv",
@@ -79,9 +101,4 @@ df.to_csv(
     encoding="utf-8"
 )
 
-print("\nMissing Values After Cleaning:")
-print(df.isnull().sum())
-
-print("\nDataset Shape After Cleaning:", df.shape)
-
-print("\nCleaned dataset saved successfully!")
+print("\nCustomers cleaned successfully!")

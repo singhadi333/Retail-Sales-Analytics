@@ -1,0 +1,10 @@
+import os
+import pandas as pd
+
+folder = "data/cleaned"
+
+for file in sorted(os.listdir(folder)):
+    if file.endswith(".csv"):
+        df = pd.read_csv(os.path.join(folder, file))
+        print(f"\n{file}")
+        print(df.columns.tolist())
